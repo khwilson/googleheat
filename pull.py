@@ -10,7 +10,7 @@ numdests = 50
 if len(argv) > 1:
    maxquery = int(argv[1])
 
-# lexington
+# witchita:
 latmu = 38.08269
 longmu = -84.484863
 # roughly 400 miles:
