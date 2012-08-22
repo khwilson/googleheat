@@ -27,8 +27,8 @@ def make_query(origins, destinations):
    url = ('http://maps.googleapis.com/maps/api/distancematrix/json?' +
           'origins=' + '|'.join(origins_str) +
           '&destinations=' + '|'.join(destinations_str))
-   url += '|'.join( destinations ) 
    url += '&units=metric&sensor=false'
+   print url
    req = urllib2.Request(url)
    google_out = urllib2.urlopen(req).read()
    
@@ -40,6 +40,14 @@ def make_query(origins, destinations):
          raise ValueError("Over the daily limit for requests")
    
    return google_out
+
+def geocode(address):
+   url=('http://maps.googleapis.com/maps/api/geocode/json?' + 
+        'address=%s&sensor=false' % address)
+   req = urllib2.Request(url)
+   google_out = urllib2.urlopen(req).read()
+   j = json.loads(google_out)
+   return j['results'][0]['geometry']['location']
 
 
 if __name__=='__main__':
