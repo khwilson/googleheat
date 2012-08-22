@@ -31,13 +31,15 @@ class stupidshit:
         latlongs = [ ','.join(ff.strip().split(',')[1:]) for ff in f[1:] ]
         names = [ ff.split(',')[0] for ff in f[1:] ]
         f = open('distancematrix','w')
-        f.write('origin,destination,duration,distance')
+        f.write('origin,destination,duration,distance\n')
         for n in names:
             for m in names:
                 if n == m:
                     continue
                 if n in output and m in output[n]:
                     f.write(n + ',' + m + ',' + ','.join(output[n][m]) + '\n')
+                elif m in output and n in output[m]:
+                    f.write(m + ',' + n + ',' + ','.join(output[m][n]) + '\n')
         f.close()
 
     def do_query(self):
