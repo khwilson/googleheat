@@ -1,0 +1,2353 @@
+origin,destination,duration,distance
+Arizona,Arizona,52331,1138826
+Wisconsin,Wisconsin,111607,2933892
+Georgia,Georgia,143781,3826332
+Kansas,Kansas,77997,1967836
+Connecticut,Connecticut,161106,4251350
+Indiana,Indiana,117644,3088179
+Maine,Maine,182308,4819664
+Massachusetts,Massachusetts,167001,4420148
+Montana,Montana,65976,1493310
+Maryland,Maryland,152171,4005080
+Arkansas,Arkansas,105239,2775876
+Alabama,Alabama,129324,3354460
+Virginia,Virginia,148592,3906462
+Nebraska,Nebraska,70147,1784908
+Kentucky,Kentucky,124295,3267824
+New York,New York,156738,4128716
+Colorado,Colorado,56780,1292025
+Vermont,Vermont,168267,4393926
+South Dakota,South Dakota,79700,2009759
+Michigan,Michigan,125655,3310207
+Missouri,Missouri,102627,2641693
+North Carolina,North Carolina,150923,3989200
+Rhode Island,Rhode Island,167499,4389146
+Idaho,Idaho,42847,874076
+Delaware,Delaware,157522,4105847
+District of Columbia,District of Columbia,151745,3982510
+New Hampshire,New Hampshire,169032,4399384
+Minnesota,Minnesota,102807,2624224
+North Dakota,North Dakota,88585,2196427
+Iowa,Iowa,92429,2410568
+Tennessee,Tennessee,126343,3284680
+Florida,Florida,159998,4279521
+Louisiana,Louisiana,111160,2901908
+New Mexico,New Mexico,58829,1468264
+Wyoming,Wyoming,52924,1247460
+Pennsylvania,Pennsylvania,144957,3832699
+South Carolina,South Carolina,147651,3901734
+Utah,Utah,38611,757465
+West Virginia,West Virginia,139015,3650640
+Washington,Washington,151745,3982510
+Mississippi,Mississippi,118955,3102504
+Illinois,Illinois,105857,2794906
+New Jersey,New Jersey,158699,4160896
+California,California,35613,670939
+Ohio,Ohio,129120,3414141
+Texas,Texas,84427,2133372
+Oregon,Oregon,43494,860851
+Oklahoma,Oklahoma,87891,2293022
+Arizona,Nevada,52331,1138826
+Wisconsin,Wisconsin,109362,2715316
+Georgia,Georgia,117227,3176808
+Kansas,Kansas,66977,1583880
+Connecticut,Connecticut,150755,3916396
+Indiana,Indiana,104009,2672850
+Maine,Maine,173528,4520075
+Massachusetts,Massachusetts,158221,4120561
+Montana,Montana,86327,2101187
+Maryland,Maryland,137744,3556350
+Arkansas,Arkansas,78580,1986196
+Alabama,Alabama,99826,2613210
+Virginia,Virginia,127958,3350611
+Nebraska,Nebraska,68999,1708103
+Kentucky,Kentucky,107582,2797486
+New York,New York,144999,3753411
+Colorado,Colorado,52117,1068749
+Vermont,Vermont,159487,4094341
+South Dakota,South Dakota,81396,2011623
+Michigan,Michigan,120726,3107776
+Missouri,Missouri,80593,2057783
+North Carolina,North Carolina,126539,3346912
+Rhode Island,Rhode Island,156296,4021345
+Idaho,Idaho,71467,1749736
+Delaware,Delaware,143367,3725718
+District of Columbia,District of Columbia,135758,3578928
+New Hampshire,New Hampshire,160252,4099799
+Minnesota,Minnesota,108995,2706979
+North Dakota,North Dakota,98135,2458805
+Iowa,Iowa,90184,2191992
+Tennessee,Tennessee,99676,2541525
+Florida,Florida,125016,3437391
+Louisiana,Louisiana,81663,2160663
+New Mexico,New Mexico,32847,716494
+Wyoming,Wyoming,68007,1550484
+Pennsylvania,Pennsylvania,134606,3497746
+South Carolina,South Carolina,122092,3221240
+Utah,Utah,47348,936044
+West Virginia,West Virginia,122303,3180306
+Washington,Washington,135758,3578928
+Mississippi,Mississippi,89457,2361258
+Illinois,Illinois,96747,2486340
+New Jersey,New Jersey,144903,3729035
+California,California,47678,1180587
+Ohio,Ohio,114236,2954648
+Texas,Texas,51624,1352775
+Oregon,Oregon,78735,1971005
+Oklahoma,Oklahoma,61232,1503343
+Wisconsin,Nevada,111607,2933892
+Wisconsin,Arizona,109362,2715316
+Georgia,Georgia,63706,1675307
+Kansas,Kansas,47073,1248455
+Connecticut,Connecticut,63736,1664354
+Indiana,Indiana,22198,536538
+Maine,Maine,84938,2232675
+Massachusetts,Massachusetts,69631,1833154
+Montana,Montana,73266,1899522
+Maryland,Maryland,54801,1418086
+Arkansas,Arkansas,47733,1249074
+Alabama,Alabama,57445,1492307
+Virginia,Virginia,57195,1450569
+Nebraska,Nebraska,45161,1156732
+Kentucky,Kentucky,34975,901280
+New York,New York,59368,1541722
+Colorado,Colorado,65189,1771156
+Vermont,Vermont,70897,1806933
+South Dakota,South Dakota,36632,962876
+Michigan,Michigan,25605,471566
+Missouri,Missouri,33138,860229
+North Carolina,North Carolina,59526,1533305
+Rhode Island,Rhode Island,70129,1802153
+Idaho,Idaho,97830,2592553
+Delaware,Delaware,60151,1518852
+District of Columbia,District of Columbia,54375,1395515
+New Hampshire,New Hampshire,71662,1812392
+Minnesota,Minnesota,28648,683999
+North Dakota,North Dakota,46992,1180471
+Iowa,Iowa,21044,527732
+Tennessee,Tennessee,43929,1123099
+Florida,Florida,84141,2204356
+Louisiana,Louisiana,66121,1668408
+New Mexico,New Mexico,83382,2137452
+Wyoming,Wyoming,63512,1742782
+Pennsylvania,Pennsylvania,47587,1245701
+South Carolina,South Carolina,58881,1576316
+Utah,Utah,88127,2378567
+West Virginia,West Virginia,47618,1194747
+Washington,Washington,54375,1395515
+Mississippi,Mississippi,55246,1460839
+Illinois,Illinois,17162,412701
+New Jersey,New Jersey,61329,1573901
+California,California,126445,3496371
+Ohio,Ohio,31750,827143
+Texas,Texas,74368,1983704
+Oregon,Oregon,116973,3208435
+Oklahoma,Oklahoma,56518,1527146
+Georgia,Nevada,143781,3826332
+Georgia,Arizona,117227,3176808
+Georgia,Wisconsin,63706,1675307
+Kansas,Kansas,71284,1914189
+Connecticut,Connecticut,61557,1608078
+Indiana,Indiana,44291,1172012
+Maine,Maine,84328,2190658
+Massachusetts,Massachusetts,69021,1791140
+Montana,Montana,129999,3536710
+Maryland,Maryland,42914,1132842
+Arkansas,Arkansas,40410,1056202
+Alabama,Alabama,18595,447392
+Virginia,Virginia,33360,838131
+Nebraska,Nebraska,82164,2161577
+Kentucky,Kentucky,30968,837349
+New York,New York,55654,1452256
+Colorado,Colorado,96271,2607842
+Vermont,Vermont,76449,2014389
+South Dakota,South Dakota,88330,2400952
+Michigan,Michigan,63999,1726909
+Missouri,Missouri,49966,1323052
+North Carolina,North Carolina,25304,608288
+Rhode Island,Rhode Island,66925,1720040
+Idaho,Idaho,137310,3756842
+Delaware,Delaware,47674,1235020
+District of Columbia,District of Columbia,40438,1086016
+New Hampshire,New Hampshire,72287,1891539
+Minnesota,Minnesota,86837,2294398
+North Dakota,North Dakota,105064,2790203
+Iowa,Iowa,65155,1681852
+Tennessee,Tennessee,24313,614845
+Florida,Florida,24302,609573
+Louisiana,Louisiana,44040,1087559
+New Mexico,New Mexico,89661,2452846
+Wyoming,Wyoming,106815,2942078
+Pennsylvania,Pennsylvania,53127,1369553
+South Carolina,South Carolina,12649,301192
+Utah,Utah,119348,3222218
+West Virginia,West Virginia,38337,946126
+Washington,Washington,40438,1086016
+Mississippi,Mississippi,28755,783528
+Illinois,Illinois,51237,1326258
+New Jersey,New Jersey,54142,1389316
+California,California,142261,3946990
+Ohio,Ohio,45303,1227601
+Texas,Texas,68598,1861420
+Oregon,Oregon,153487,4175026
+Oklahoma,Oklahoma,59563,1626002
+Kansas,Nevada,77997,1967836
+Kansas,Arizona,66977,1583880
+Kansas,Wisconsin,47073,1248455
+Kansas,Georgia,71284,1914189
+Connecticut,Connecticut,91375,2455744
+Indiana,Indiana,44629,1212198
+Maine,Maine,114148,3059430
+Massachusetts,Massachusetts,98842,2659908
+Montana,Montana,63972,1729356
+Maryland,Maryland,78365,2095697
+Arkansas,Arkansas,35987,982964
+Alabama,Alabama,62436,1675739
+Virginia,Virginia,73311,1986770
+Nebraska,Nebraska,15357,369327
+Kentucky,Kentucky,49014,1348132
+New York,New York,85619,2292758
+Colorado,Colorado,27793,742083
+Vermont,Vermont,100107,2633686
+South Dakota,South Dakota,27159,668654
+Michigan,Michigan,59659,1603632
+Missouri,Missouri,27346,722003
+North Carolina,North Carolina,75641,2069506
+Rhode Island,Rhode Island,96916,2560690
+Idaho,Idaho,70064,1921155
+Delaware,Delaware,83715,2196464
+District of Columbia,District of Columbia,77938,2073127
+New Hampshire,New Hampshire,100872,2639145
+Minnesota,Minnesota,47074,1162606
+North Dakota,North Dakota,46404,1166571
+Iowa,Iowa,27686,748417
+Tennessee,Tennessee,51062,1364988
+Florida,Florida,91273,2446244
+Louisiana,Louisiana,49353,1343829
+New Mexico,New Mexico,40214,993040
+Wyoming,Wyoming,39568,1106391
+Pennsylvania,Pennsylvania,75226,2037093
+South Carolina,South Carolina,72710,1992908
+Utah,Utah,50869,1356464
+West Virginia,West Virginia,63734,1730949
+Washington,Washington,77938,2073127
+Mississippi,Mississippi,54959,1457507
+Illinois,Illinois,35680,982189
+New Jersey,New Jersey,85524,2268382
+California,California,89188,2474268
+Ohio,Ohio,54856,1493995
+Texas,Texas,38617,1016164
+Oregon,Oregon,86241,2339344
+Oklahoma,Oklahoma,21485,574971
+Connecticut,Nevada,161106,4251350
+Connecticut,Arizona,150755,3916396
+Connecticut,Wisconsin,63736,1664354
+Connecticut,Georgia,61557,1608078
+Connecticut,Kansas,91375,2455744
+Indiana,Indiana,51251,1295923
+Maine,Maine,23772,598334
+Massachusetts,Massachusetts,8465,198815
+Montana,Montana,134926,3517424
+Maryland,Maryland,20639,481802
+Arkansas,Arkansas,79546,2112193
+Alabama,Alabama,70905,1855383
+Virginia,Virginia,34419,810375
+Nebraska,Nebraska,94801,2472064
+Kentucky,Kentucky,50160,1284353
+New York,New York,7574,154392
+Colorado,Colorado,114828,3086489
+Vermont,Vermont,15893,422063
+South Dakota,South Dakota,97328,2611964
+Michigan,Michigan,51936,1314198
+Missouri,Missouri,72878,1877645
+North Carolina,North Carolina,40304,967482
+Rhode Island,Rhode Island,7575,187389
+Idaho,Idaho,150436,4105587
+Delaware,Delaware,19215,449065
+District of Columbia,District of Columbia,22606,516933
+New Hampshire,New Hampshire,11731,299215
+Minnesota,Minnesota,90308,2301898
+North Dakota,North Dakota,108652,2798371
+Iowa,Iowa,71977,1875529
+Tennessee,Tennessee,62370,1638806
+Florida,Florida,77442,1999142
+Louisiana,Louisiana,90320,2356428
+New Mexico,New Mexico,124901,3345166
+Wyoming,Wyoming,119940,3290821
+Pennsylvania,Pennsylvania,18335,444714
+South Carolina,South Carolina,52222,1367448
+Utah,Utah,137766,3693905
+West Virginia,West Virginia,37793,933780
+Washington,Washington,22606,516933
+Mississippi,Mississippi,74958,2003308
+Illinois,Illinois,61818,1600607
+New Jersey,New Jersey,12920,277914
+California,California,176084,4811704
+Ohio,Ohio,39125,983013
+Texas,Texas,110800,2998982
+Oregon,Oregon,166613,4523772
+Oklahoma,Oklahoma,96258,2544565
+Indiana,Nevada,117644,3088179
+Indiana,Arizona,104009,2672850
+Indiana,Wisconsin,22198,536538
+Indiana,Georgia,44291,1172012
+Indiana,Kansas,44629,1212198
+Indiana,Connecticut,51251,1295923
+Maine,Maine,73173,1918543
+Massachusetts,Massachusetts,57866,1519023
+Montana,Montana,92090,2391238
+Maryland,Maryland,38312,987088
+Arkansas,Arkansas,36100,929197
+Alabama,Alabama,38036,990231
+Virginia,Virginia,37256,933446
+Nebraska,Nebraska,51644,1339180
+Kentucky,Kentucky,15430,391927
+New York,New York,45566,1184148
+Colorado,Colorado,69682,1911846
+Vermont,Vermont,59132,1492802
+South Dakota,South Dakota,54172,1479080
+Michigan,Michigan,20711,517993
+Missouri,Missouri,24986,635292
+North Carolina,North Carolina,39586,1016182
+Rhode Island,Rhode Island,56793,1452655
+Idaho,Idaho,106648,2941378
+Delaware,Delaware,43662,1087854
+District of Columbia,District of Columbia,37885,964517
+New Hampshire,New Hampshire,59897,1498261
+Minnesota,Minnesota,47472,1175716
+North Dakota,North Dakota,65816,1672186
+Iowa,Iowa,28820,742648
+Tennessee,Tennessee,24520,621022
+Florida,Florida,64732,1702282
+Louisiana,Louisiana,54487,1348532
+New Mexico,New Mexico,77009,2102814
+Wyoming,Wyoming,76153,2126608
+Pennsylvania,Pennsylvania,34250,896205
+South Carolina,South Carolina,39335,1066962
+Utah,Utah,92758,2526226
+West Virginia,West Virginia,27679,677624
+Washington,Washington,37885,964517
+Mississippi,Mississippi,41579,1129536
+Illinois,Illinois,14023,333589
+New Jersey,New Jersey,45471,1159773
+California,California,129608,3596963
+Ohio,Ohio,14803,385383
+Texas,Texas,66505,1778481
+Oregon,Oregon,122825,3359562
+Oklahoma,Oklahoma,48365,1302210
+Maine,Nevada,182308,4819664
+Maine,Arizona,173528,4520075
+Maine,Wisconsin,84938,2232675
+Maine,Georgia,84328,2190658
+Maine,Kansas,114148,3059430
+Maine,Connecticut,23772,598334
+Maine,Indiana,73173,1918543
+Massachusetts,Massachusetts,17586,417718
+Montana,Montana,155920,4133430
+Maryland,Maryland,44013,1057518
+Arkansas,Arkansas,103128,2684602
+Alabama,Alabama,94486,2427789
+Virginia,Virginia,57793,1386091
+Nebraska,Nebraska,115795,3088064
+Kentucky,Kentucky,73741,1856759
+New York,New York,30816,731272
+Colorado,Colorado,135822,3702496
+Vermont,Vermont,18509,386725
+South Dakota,South Dakota,118322,3227966
+Michigan,Michigan,68881,1613060
+Missouri,Missouri,95010,2524669
+North Carolina,North Carolina,63678,1543198
+Rhode Island,Rhode Island,20672,508329
+Idaho,Idaho,171430,4721582
+Delaware,Delaware,42589,1024781
+District of Columbia,District of Columbia,45980,1092649
+New Hampshire,New Hampshire,16459,401970
+Minnesota,Minnesota,107114,2336456
+North Dakota,North Dakota,129647,3414374
+Iowa,Iowa,92971,2491527
+Tennessee,Tennessee,85951,2211210
+Florida,Florida,100816,2574860
+Louisiana,Louisiana,113901,2928833
+New Mexico,New Mexico,147034,3992198
+Wyoming,Wyoming,140934,3906828
+Pennsylvania,Pennsylvania,42288,1030839
+South Carolina,South Carolina,75357,1889017
+Utah,Utah,158760,4309910
+West Virginia,West Virginia,61375,1506187
+Washington,Washington,45980,1092649
+Mississippi,Mississippi,98539,2575716
+Illinois,Illinois,82812,2216600
+New Jersey,New Jersey,36294,853630
+California,California,197078,5427702
+Ohio,Ohio,61257,1630037
+Texas,Texas,134382,3571386
+Oregon,Oregon,187607,5139774
+Oklahoma,Oklahoma,118390,3191592
+Massachusetts,Nevada,167001,4420148
+Massachusetts,Arizona,158221,4120561
+Massachusetts,Wisconsin,69631,1833154
+Massachusetts,Georgia,69021,1791140
+Massachusetts,Kansas,98842,2659908
+Massachusetts,Connecticut,8465,198815
+Massachusetts,Indiana,57866,1519023
+Massachusetts,Maine,17586,417718
+Montana,Montana,140158,3731435
+Maryland,Maryland,28252,655527
+Arkansas,Arkansas,87366,2282606
+Alabama,Alabama,78725,2025797
+Virginia,Virginia,42032,984100
+Nebraska,Nebraska,100033,2686068
+Kentucky,Kentucky,57980,1454767
+New York,New York,15054,329280
+Colorado,Colorado,120060,3300500
+Vermont,Vermont,13415,335565
+South Dakota,South Dakota,102561,2825970
+Michigan,Michigan,54922,1399082
+Missouri,Missouri,79249,2122676
+North Carolina,North Carolina,47917,1141206
+Rhode Island,Rhode Island,5406,124126
+Idaho,Idaho,155668,4319599
+Delaware,Delaware,26827,622789
+District of Columbia,District of Columbia,30218,690658
+New Hampshire,New Hampshire,5156,110084
+Minnesota,Minnesota,95540,2515903
+North Dakota,North Dakota,113885,3012379
+Iowa,Iowa,77209,2089535
+Tennessee,Tennessee,70190,1809221
+Florida,Florida,85054,2172865
+Louisiana,Louisiana,98139,2526837
+New Mexico,New Mexico,131272,3590202
+Wyoming,Wyoming,125173,3504832
+Pennsylvania,Pennsylvania,26526,628848
+South Carolina,South Carolina,59596,1487025
+Utah,Utah,142998,3907916
+West Virginia,West Virginia,45613,1104195
+Washington,Washington,30218,690658
+Mississippi,Mississippi,82778,2173721
+Illinois,Illinois,67051,1814610
+New Jersey,New Jersey,20532,451639
+California,California,181317,5025718
+Ohio,Ohio,45496,1228045
+Texas,Texas,118620,3169391
+Oregon,Oregon,171845,4737790
+Oklahoma,Oklahoma,102629,2789596
+Montana,Nevada,65976,1493310
+Montana,Arizona,86327,2101187
+Montana,Wisconsin,73266,1899522
+Montana,Georgia,129999,3536710
+Montana,Kansas,63972,1729356
+Montana,Connecticut,134926,3517424
+Montana,Indiana,92090,2391238
+Montana,Maine,155920,4133430
+Montana,Massachusetts,140158,3731435
+Maryland,Maryland,124824,3271456
+Arkansas,Arkansas,97084,2712296
+Alabama,Alabama,121746,3171130
+Virginia,Virginia,127217,3303938
+Nebraska,Nebraska,52345,1362178
+Kentucky,Kentucky,104998,2754650
+New York,New York,129391,3395089
+Colorado,Colorado,48128,1255521
+Vermont,Vermont,140919,3660302
+South Dakota,South Dakota,43549,1156139
+Michigan,Michigan,94358,2185860
+Missouri,Missouri,86732,2288452
+North Carolina,North Carolina,129548,3386673
+Rhode Island,Rhode Island,140152,3655522
+Idaho,Idaho,36277,741192
+Delaware,Delaware,130174,3372220
+District of Columbia,District of Columbia,124398,3248884
+New Hampshire,New Hampshire,141684,3665760
+Minnesota,Minnesota,49879,1290023
+North Dakota,North Dakota,35657,862227
+Iowa,Iowa,70186,1865115
+Tennessee,Tennessee,110447,2931436
+Florida,Florida,150659,4012687
+Louisiana,Louisiana,110450,3073159
+New Mexico,New Mexico,69838,1886622
+Wyoming,Wyoming,29193,705790
+Pennsylvania,Pennsylvania,117609,3099070
+South Carolina,South Carolina,128903,3429684
+Utah,Utah,49992,1139575
+West Virginia,West Virginia,117641,3048116
+Washington,Washington,124398,3248884
+Mississippi,Mississippi,114508,2995575
+Illinois,Illinois,83124,2220103
+New Jersey,New Jersey,131351,3427269
+California,California,80083,2026942
+Ohio,Ohio,101773,2680510
+Texas,Texas,86769,2290642
+Oregon,Oregon,57990,1406565
+Oklahoma,Oklahoma,82582,2304304
+Maryland,Nevada,152171,4005080
+Maryland,Arizona,137744,3556350
+Maryland,Wisconsin,54801,1418086
+Maryland,Georgia,42914,1132842
+Maryland,Kansas,78365,2095697
+Maryland,Connecticut,20639,481802
+Maryland,Indiana,38312,987088
+Maryland,Maine,44013,1057518
+Maryland,Massachusetts,28252,655527
+Maryland,Montana,124824,3271456
+Arkansas,Arkansas,61915,1665035
+Alabama,Alabama,53059,1399534
+Virginia,Virginia,14879,346503
+Nebraska,Nebraska,86021,2225805
+Kentucky,Kentucky,34077,876856
+New York,New York,13907,332088
+Colorado,Colorado,105184,2816620
+Vermont,Vermont,34702,894222
+South Dakota,South Dakota,88549,2365707
+Michigan,Michigan,47283,1197611
+Missouri,Missouri,59787,1595049
+North Carolina,North Carolina,20764,503609
+Rhode Island,Rhode Island,25178,599874
+Idaho,Idaho,141656,3859326
+Delaware,Delaware,6427,115356
+District of Columbia,District of Columbia,2960,48091
+New Hampshire,New Hampshire,30540,771373
+Minnesota,Minnesota,81528,2055640
+North Dakota,North Dakota,99873,2552110
+Iowa,Iowa,63197,1629273
+Tennessee,Tennessee,44738,1191649
+Florida,Florida,57901,1535270
+Louisiana,Louisiana,72688,1909267
+New Mexico,New Mexico,111166,3061678
+Wyoming,Wyoming,111161,3044561
+Pennsylvania,Pennsylvania,13651,320219
+South Carolina,South Carolina,32443,849428
+Utah,Utah,128260,3431000
+West Virginia,West Virginia,21711,526282
+Washington,Washington,2960,48091
+Mississippi,Mississippi,57326,1556150
+Illinois,Illinois,50360,1292644
+New Jersey,New Jersey,12395,269148
+California,California,163765,4555825
+Ohio,Ohio,29417,711177
+Texas,Texas,93169,2551824
+Oregon,Oregon,157833,4277510
+Oklahoma,Oklahoma,81067,2234836
+Arkansas,Nevada,105239,2775876
+Arkansas,Arizona,78580,1986196
+Arkansas,Wisconsin,47733,1249074
+Arkansas,Georgia,40410,1056202
+Arkansas,Kansas,35987,982964
+Arkansas,Connecticut,79546,2112193
+Arkansas,Indiana,36100,929197
+Arkansas,Maine,103128,2684602
+Arkansas,Massachusetts,87366,2282606
+Arkansas,Montana,97084,2712296
+Arkansas,Maryland,61915,1665035
+Alabama,Alabama,28595,701999
+Virginia,Virginia,51524,1373642
+Nebraska,Nebraska,48857,1208242
+Kentucky,Kentucky,33455,888462
+New York,New York,72283,1956649
+Colorado,Colorado,60784,1677116
+Vermont,Vermont,88891,2316003
+South Dakota,South Dakota,55023,1447618
+Michigan,Michigan,52567,1378095
+Missouri,Missouri,19154,407290
+North Carolina,North Carolina,50104,1369942
+Rhode Island,Rhode Island,83580,2224586
+Idaho,Idaho,103424,2907254
+Delaware,Delaware,66932,1748746
+District of Columbia,District of Columbia,59323,1601960
+New Hampshire,New Hampshire,88941,2396086
+Minnesota,Minnesota,59655,1542232
+North Dakota,North Dakota,73131,1924493
+Iowa,Iowa,38805,961009
+Tennessee,Tennessee,23241,564551
+Florida,Florida,59369,1525966
+Louisiana,Louisiana,22616,524263
+New Mexico,New Mexico,51726,1406761
+Wyoming,Wyoming,72878,2092225
+Pennsylvania,Pennsylvania,64010,1719405
+South Carolina,South Carolina,44558,1135088
+Utah,Utah,83860,2291500
+West Virginia,West Virginia,48175,1271282
+Washington,Washington,59323,1601960
+Mississippi,Mississippi,21357,526446
+Illinois,Illinois,31790,783353
+New Jersey,New Jersey,72513,1902701
+California,California,104326,2900908
+Ohio,Ohio,43640,1176303
+Texas,Texas,34598,937062
+Oregon,Oregon,119601,3325440
+Oklahoma,Oklahoma,21628,579921
+Alabama,Nevada,129324,3354460
+Alabama,Arizona,99826,2613210
+Alabama,Wisconsin,57445,1492307
+Alabama,Georgia,18595,447392
+Alabama,Kansas,62436,1675739
+Alabama,Connecticut,70905,1855383
+Alabama,Indiana,38036,990231
+Alabama,Maine,94486,2427789
+Alabama,Massachusetts,78725,2025797
+Alabama,Montana,121746,3171130
+Alabama,Maryland,53059,1399534
+Alabama,Arkansas,28595,701999
+Virginia,Virginia,41417,1088802
+Nebraska,Nebraska,73341,1852130
+Kentucky,Kentucky,30536,807931
+New York,New York,63609,1700949
+Colorado,Colorado,86966,2369465
+Vermont,Vermont,84430,2263233
+South Dakota,South Dakota,79507,2091507
+Michigan,Michigan,58484,1507712
+Missouri,Missouri,39709,955458
+North Carolina,North Carolina,35463,941172
+Rhode Island,Rhode Island,74906,1968884
+Idaho,Idaho,128488,3447388
+Delaware,Delaware,58258,1493045
+District of Columbia,District of Columbia,50649,1346260
+New Hampshire,New Hampshire,80267,2140384
+Minnesota,Minnesota,79593,2095014
+North Dakota,North Dakota,97615,2568383
+Iowa,Iowa,57910,1482469
+Tennessee,Tennessee,17415,412535
+Florida,Florida,34403,864189
+Louisiana,Louisiana,25863,606762
+New Mexico,New Mexico,74518,1976500
+Wyoming,Wyoming,97992,2632630
+Pennsylvania,Pennsylvania,59868,1576523
+South Carolina,South Carolina,24556,642880
+Utah,Utah,110042,2983844
+West Virginia,West Virginia,44113,1125686
+Washington,Washington,50649,1346260
+Mississippi,Mississippi,10501,253645
+Illinois,Illinois,44882,1145258
+New Jersey,New Jersey,63839,1647000
+California,California,127685,3491139
+Ohio,Ohio,42623,1138904
+Texas,Texas,50344,1331538
+Oregon,Oregon,144664,3865572
+Oklahoma,Oklahoma,45604,1181990
+Virginia,Nevada,148592,3906462
+Virginia,Arizona,127958,3350611
+Virginia,Wisconsin,57195,1450569
+Virginia,Georgia,33360,838131
+Virginia,Kansas,73311,1986770
+Virginia,Connecticut,34419,810375
+Virginia,Indiana,37256,933446
+Virginia,Maine,57793,1386091
+Virginia,Massachusetts,42032,984100
+Virginia,Montana,127217,3303938
+Virginia,Maryland,14879,346503
+Virginia,Arkansas,51524,1373642
+Virginia,Alabama,41417,1088802
+Nebraska,Nebraska,85022,2234926
+Kentucky,Kentucky,27114,678210
+New York,New York,27567,666450
+Colorado,Colorado,99129,2681188
+Vermont,Vermont,48362,1228584
+South Dakota,South Dakota,89022,2359174
+Michigan,Michigan,50471,1302567
+Missouri,Missouri,52823,1396404
+North Carolina,North Carolina,11379,246391
+Rhode Island,Rhode Island,38838,934236
+Idaho,Idaho,140168,3830195
+Delaware,Delaware,19586,449214
+District of Columbia,District of Columbia,12351,300210
+New Hampshire,New Hampshire,44199,1105735
+Minnesota,Minnesota,83272,2091449
+North Dakota,North Dakota,101616,2587919
+Iowa,Iowa,63670,1622750
+Tennessee,Tennessee,34107,899125
+Florida,Florida,49876,1297757
+Louisiana,Louisiana,62056,1616746
+New Mexico,New Mexico,100534,2769151
+Wyoming,Wyoming,109672,3015424
+Pennsylvania,Pennsylvania,24452,601426
+South Carolina,South Carolina,21794,556973
+Utah,Utah,122205,3295571
+West Virginia,West Virginia,17549,364442
+Washington,Washington,12351,300210
+Mississippi,Mississippi,46695,1263629
+Illinois,Illinois,48409,1211191
+New Jersey,New Jersey,26055,603510
+California,California,153134,4263287
+Ohio,Ohio,28831,724665
+Texas,Texas,82537,2259298
+Oregon,Oregon,156345,4248375
+Oklahoma,Oklahoma,70436,1942315
+Nebraska,Nevada,70147,1784908
+Nebraska,Arizona,68999,1708103
+Nebraska,Wisconsin,45161,1156732
+Nebraska,Georgia,82164,2161577
+Nebraska,Kansas,15357,369327
+Nebraska,Connecticut,94801,2472064
+Nebraska,Indiana,51644,1339180
+Nebraska,Maine,115795,3088064
+Nebraska,Massachusetts,100033,2686068
+Nebraska,Montana,52345,1362178
+Nebraska,Maryland,86021,2225805
+Nebraska,Arkansas,48857,1208242
+Nebraska,Alabama,73341,1852130
+Nebraska,Virginia,85022,2234926
+Kentucky,Kentucky,60341,1596128
+New York,New York,90230,2354868
+Colorado,Colorado,23760,620336
+Vermont,Vermont,101759,2620077
+South Dakota,South Dakota,15352,357740
+Michigan,Michigan,59147,1536360
+Missouri,Missouri,38674,969999
+North Carolina,North Carolina,86969,2317505
+Rhode Island,Rhode Island,100991,2615297
+Idaho,Idaho,59368,1639430
+Delaware,Delaware,91013,2331998
+District of Columbia,District of Columbia,85237,2208663
+New Hampshire,New Hampshire,102524,2625536
+Minnesota,Minnesota,40460,987328
+North Dakota,North Dakota,34220,857196
+Iowa,Iowa,25921,636721
+Tennessee,Tennessee,62389,1612984
+Florida,Florida,102601,2694241
+Louisiana,Louisiana,63569,1698243
+New Mexico,New Mexico,44390,1176739
+Wyoming,Wyoming,28441,741617
+Pennsylvania,Pennsylvania,78449,2058850
+South Carolina,South Carolina,84038,2240907
+Utah,Utah,46698,1227747
+West Virginia,West Virginia,75062,1978945
+Washington,Washington,85237,2208663
+Mississippi,Mississippi,66450,1677126
+Illinois,Illinois,39349,1021061
+New Jersey,New Jersey,92191,2387047
+California,California,85017,2345550
+Ohio,Ohio,62612,1640292
+Texas,Texas,47749,1194582
+Oregon,Oregon,75545,2057614
+Oklahoma,Oklahoma,35701,929386
+Kentucky,Nevada,124295,3267824
+Kentucky,Arizona,107582,2797486
+Kentucky,Wisconsin,34975,901280
+Kentucky,Georgia,30968,837349
+Kentucky,Kansas,49014,1348132
+Kentucky,Connecticut,50160,1284353
+Kentucky,Indiana,15430,391927
+Kentucky,Maine,73741,1856759
+Kentucky,Massachusetts,57980,1454767
+Kentucky,Montana,104998,2754650
+Kentucky,Maryland,34077,876856
+Kentucky,Arkansas,33455,888462
+Kentucky,Alabama,30536,807931
+Kentucky,Virginia,27114,678210
+Kentucky,Nebraska,60341,1596128
+New York,New York,42317,1129569
+Colorado,Colorado,74472,2041420
+Vermont,Vermont,60843,1541017
+South Dakota,South Dakota,65816,1807028
+Michigan,Michigan,34287,900628
+Missouri,Missouri,28167,756633
+North Carolina,North Carolina,28650,794889
+Rhode Island,Rhode Island,53614,1397505
+Idaho,Idaho,115511,3190427
+Delaware,Delaware,38333,979996
+District of Columbia,District of Columbia,32147,809364
+New Hampshire,New Hampshire,58975,1569004
+Minnesota,Minnesota,60644,1540771
+North Dakota,North Dakota,78988,2037241
+Iowa,Iowa,40465,1070596
+Tennessee,Tennessee,17944,422221
+Florida,Florida,50862,1366443
+Louisiana,Louisiana,49608,1308573
+New Mexico,New Mexico,80190,2224156
+Wyoming,Wyoming,85015,2375656
+Pennsylvania,Pennsylvania,34225,890707
+South Carolina,South Carolina,24980,685343
+Utah,Utah,97549,2655803
+West Virginia,West Virginia,17090,421444
+Washington,Washington,32147,809364
+Mississippi,Mississippi,34246,955455
+Illinois,Illinois,25204,659040
+New Jersey,New Jersey,42587,1110554
+California,California,132790,3718310
+Ohio,Ohio,15591,401319
+Texas,Texas,65488,1790291
+Oregon,Oregon,131688,3608611
+Oklahoma,Oklahoma,51547,1423551
+New York,Nevada,156738,4128716
+New York,Arizona,144999,3753411
+New York,Wisconsin,59368,1541722
+New York,Georgia,55654,1452256
+New York,Kansas,85619,2292758
+New York,Connecticut,7574,154392
+New York,Indiana,45566,1184148
+New York,Maine,30816,731272
+New York,Massachusetts,15054,329280
+New York,Montana,129391,3395089
+New York,Maryland,13907,332088
+New York,Arkansas,72283,1956649
+New York,Alabama,63609,1700949
+New York,Virginia,27567,666450
+New York,Nebraska,90230,2354868
+New York,Kentucky,42317,1129569
+Colorado,Colorado,110059,2964094
+Vermont,Vermont,21622,567359
+South Dakota,South Dakota,92560,2489568
+Michigan,Michigan,51294,1321472
+Missouri,Missouri,67427,1715138
+North Carolina,North Carolina,33790,816140
+Rhode Island,Rhode Island,12036,276479
+Idaho,Idaho,145667,3983191
+Delaware,Delaware,12701,297723
+District of Columbia,District of Columbia,16091,365591
+New Hampshire,New Hampshire,17460,444510
+Minnesota,Minnesota,85539,2179502
+North Dakota,North Dakota,103884,2675975
+Iowa,Iowa,67208,1753134
+Tennessee,Tennessee,55908,1482374
+Florida,Florida,70928,1847800
+Louisiana,Louisiana,83858,2199994
+New Mexico,New Mexico,119450,3182652
+Wyoming,Wyoming,115172,3168426
+Pennsylvania,Pennsylvania,13566,322321
+South Carolina,South Carolina,45469,1161959
+Utah,Utah,132997,3571510
+West Virginia,West Virginia,31331,777348
+Washington,Washington,16091,365591
+Mississippi,Mississippi,68496,1846876
+Illinois,Illinois,57050,1478212
+New Jersey,New Jersey,6405,126572
+California,California,171316,4689310
+Ohio,Ohio,34356,860619
+Texas,Texas,104339,2842548
+Oregon,Oregon,161844,4401378
+Oklahoma,Oklahoma,90807,2382051
+Colorado,Nevada,56780,1292025
+Colorado,Arizona,52117,1068749
+Colorado,Wisconsin,65189,1771156
+Colorado,Georgia,96271,2607842
+Colorado,Kansas,27793,742083
+Colorado,Connecticut,114828,3086489
+Colorado,Indiana,69682,1911846
+Colorado,Maine,135822,3702496
+Colorado,Massachusetts,120060,3300500
+Colorado,Montana,48128,1255521
+Colorado,Maryland,105184,2816620
+Colorado,Arkansas,60784,1677116
+Colorado,Alabama,86966,2369465
+Colorado,Virginia,99129,2681188
+Colorado,Nebraska,23760,620336
+Colorado,Kentucky,74472,2041420
+Colorado,New York,110059,2964094
+Vermont,Vermont,121938,3228132
+South Dakota,South Dakota,36215,922636
+Michigan,Michigan,79326,2144412
+Missouri,Missouri,52725,1422413
+North Carolina,North Carolina,101020,2769918
+Rhode Island,Rhode Island,121171,3223352
+Idaho,Idaho,54688,1361243
+Delaware,Delaware,109093,2896876
+District of Columbia,District of Columbia,103317,2773540
+New Hampshire,New Hampshire,122703,3233591
+Minnesota,Minnesota,63814,1617988
+North Dakota,North Dakota,51850,1295366
+Iowa,Iowa,46101,1244773
+Tennessee,Tennessee,76440,2065398
+Florida,Florida,116652,3146656
+Louisiana,Louisiana,73738,1866765
+New Mexico,New Mexico,29357,652666
+Wyoming,Wyoming,24326,633944
+Pennsylvania,Pennsylvania,98628,2666904
+South Carolina,South Carolina,98088,2693320
+Utah,Utah,29527,680579
+West Virginia,West Virginia,89112,2431359
+Washington,Washington,103317,2773540
+Mississippi,Mississippi,80337,2157920
+Illinois,Illinois,59529,1629110
+New Jersey,New Jersey,110902,2968794
+California,California,67845,1798381
+Ohio,Ohio,80234,2194406
+Texas,Texas,49807,1236626
+Oregon,Oregon,70865,1779428
+Oklahoma,Oklahoma,46863,1275381
+Vermont,Nevada,168267,4393926
+Vermont,Arizona,159487,4094341
+Vermont,Wisconsin,70897,1806933
+Vermont,Georgia,76449,2014389
+Vermont,Kansas,100107,2633686
+Vermont,Connecticut,15893,422063
+Vermont,Indiana,59132,1492802
+Vermont,Maine,18509,386725
+Vermont,Massachusetts,13415,335565
+Vermont,Montana,140919,3660302
+Vermont,Maryland,34702,894222
+Vermont,Arkansas,88891,2316003
+Vermont,Alabama,84430,2263233
+Vermont,Virginia,48362,1228584
+Vermont,Nebraska,101759,2620077
+Vermont,Kentucky,60843,1541017
+Vermont,New York,21622,567359
+Vermont,Colorado,121938,3228132
+South Dakota,South Dakota,104684,2746874
+Michigan,Michigan,53663,1302093
+Missouri,Missouri,81373,2043592
+North Carolina,North Carolina,55379,1362592
+Rhode Island,Rhode Island,17390,446430
+Idaho,Idaho,157792,4240496
+Delaware,Delaware,34290,844177
+District of Columbia,District of Columbia,37680,912045
+New Hampshire,New Hampshire,9120,226762
+Minnesota,Minnesota,93592,2047075
+North Dakota,North Dakota,113335,2723374
+Iowa,Iowa,79333,2010450
+Tennessee,Tennessee,76411,1900289
+Florida,Florida,92517,2394255
+Louisiana,Louisiana,105003,2709084
+New Mexico,New Mexico,133396,3511101
+Wyoming,Wyoming,127296,3425731
+Pennsylvania,Pennsylvania,29802,724862
+South Carolina,South Carolina,66905,1720109
+Utah,Utah,145122,3828815
+West Virginia,West Virginia,51454,1253434
+Washington,Washington,37680,912045
+Mississippi,Mississippi,89641,2355964
+Illinois,Illinois,69174,1735524
+New Jersey,New Jersey,27994,673027
+California,California,183441,4946626
+Ohio,Ohio,47619,1148954
+Texas,Texas,122892,3186771
+Oregon,Oregon,173969,4658693
+Oklahoma,Oklahoma,104752,2710500
+South Dakota,Nevada,79700,2009759
+South Dakota,Arizona,81396,2011623
+South Dakota,Wisconsin,36632,962876
+South Dakota,Georgia,88330,2400952
+South Dakota,Kansas,27159,668654
+South Dakota,Connecticut,97328,2611964
+South Dakota,Indiana,54172,1479080
+South Dakota,Maine,118322,3227966
+South Dakota,Massachusetts,102561,2825970
+South Dakota,Montana,43549,1156139
+South Dakota,Maryland,88549,2365707
+South Dakota,Arkansas,55023,1447618
+South Dakota,Alabama,79507,2091507
+South Dakota,Virginia,89022,2359174
+South Dakota,Nebraska,15352,357740
+South Dakota,Kentucky,65816,1807028
+South Dakota,New York,92560,2489568
+South Dakota,Colorado,36215,922636
+South Dakota,Vermont,104684,2746874
+Michigan,Michigan,60426,1410328
+Missouri,Missouri,45815,1209057
+North Carolina,North Carolina,92198,2440082
+Rhode Island,Rhode Island,104239,2719910
+Idaho,Idaho,64409,1707602
+Delaware,Delaware,94261,2436613
+District of Columbia,District of Columbia,88485,2313278
+New Hampshire,New Hampshire,105772,2730150
+Minnesota,Minnesota,29709,713842
+North Dakota,North Dakota,21830,529945
+Iowa,Iowa,29485,741143
+Tennessee,Tennessee,69530,1852044
+Florida,Florida,109742,2933298
+Louisiana,Louisiana,73875,1950036
+New Mexico,New Mexico,56737,1480286
+Wyoming,Wyoming,28986,803060
+Pennsylvania,Pennsylvania,81697,2163462
+South Carolina,South Carolina,91179,2479964
+Utah,Utah,59046,1531294
+West Virginia,West Virginia,80290,2101524
+Washington,Washington,88485,2313278
+Mississippi,Mississippi,73591,1916185
+Illinois,Illinois,43167,1154327
+New Jersey,New Jersey,95439,2491662
+California,California,96760,2535201
+Ohio,Ohio,65860,1744904
+Texas,Texas,60336,1537800
+Oregon,Oregon,85636,2188531
+Oklahoma,Oklahoma,46007,1181181
+Michigan,Nevada,125655,3310207
+Michigan,Arizona,120726,3107776
+Michigan,Wisconsin,25605,471566
+Michigan,Georgia,63999,1726909
+Michigan,Kansas,59659,1603632
+Michigan,Connecticut,51936,1314198
+Michigan,Indiana,20711,517993
+Michigan,Maine,68881,1613060
+Michigan,Massachusetts,54922,1399082
+Michigan,Montana,94358,2185860
+Michigan,Maryland,47283,1197611
+Michigan,Arkansas,52567,1378095
+Michigan,Alabama,58484,1507712
+Michigan,Virginia,50471,1302567
+Michigan,Nebraska,59147,1536360
+Michigan,Kentucky,34287,900628
+Michigan,New York,51294,1321472
+Michigan,Colorado,79326,2144412
+Michigan,Vermont,53663,1302093
+Michigan,South Dakota,60426,1410328
+Missouri,Missouri,40085,1069306
+North Carolina,North Carolina,53098,1381362
+Rhode Island,Rhode Island,56331,1435477
+Idaho,Idaho,113638,3165328
+Delaware,Delaware,52061,1294543
+District of Columbia,District of Columbia,46284,1171206
+New Hampshire,New Hampshire,57283,1371220
+Minnesota,Minnesota,48999,1160245
+North Dakota,North Dakota,67472,1469617
+Iowa,Iowa,35179,935277
+Tennessee,Tennessee,45085,1199340
+Florida,Florida,84618,2253530
+Louisiana,Louisiana,70511,1796129
+New Mexico,New Mexico,92108,2536827
+Wyoming,Wyoming,83143,2350563
+Pennsylvania,Pennsylvania,39496,1021393
+South Carolina,South Carolina,57196,1499528
+Utah,Utah,100968,2753646
+West Virginia,West Virginia,40952,1036538
+Washington,Washington,46284,1171206
+Mississippi,Mississippi,59636,1588560
+Illinois,Illinois,25020,660353
+New Jersey,New Jersey,53238,1349592
+California,California,139287,3871450
+Ohio,Ohio,23295,593792
+Texas,Texas,81605,2212494
+Oregon,Oregon,129815,3583514
+Oklahoma,Oklahoma,63465,1736221
+Missouri,Nevada,102627,2641693
+Missouri,Arizona,80593,2057783
+Missouri,Wisconsin,33138,860229
+Missouri,Georgia,49966,1323052
+Missouri,Kansas,27346,722003
+Missouri,Connecticut,72878,1877645
+Missouri,Indiana,24986,635292
+Missouri,Maine,95010,2524669
+Missouri,Massachusetts,79249,2122676
+Missouri,Montana,86732,2288452
+Missouri,Maryland,59787,1595049
+Missouri,Arkansas,19154,407290
+Missouri,Alabama,39709,955458
+Missouri,Virginia,52823,1396404
+Missouri,Nebraska,38674,969999
+Missouri,Kentucky,28167,756633
+Missouri,New York,67427,1715138
+Missouri,Colorado,52725,1422413
+Missouri,Vermont,81373,2043592
+Missouri,South Dakota,45815,1209057
+Missouri,Michigan,40085,1069306
+North Carolina,North Carolina,54833,1472849
+Rhode Island,Rhode Island,76919,1975331
+Idaho,Idaho,93252,2564027
+Delaware,Delaware,63718,1611102
+District of Columbia,District of Columbia,57982,1522212
+New Hampshire,New Hampshire,80875,2053786
+Minnesota,Minnesota,45966,1185246
+North Dakota,North Dakota,62380,1685010
+Iowa,Iowa,22375,542944
+Tennessee,Tennessee,29786,690262
+Florida,Florida,70465,1849586
+Louisiana,Louisiana,39485,958056
+New Mexico,New Mexico,53463,1474466
+Wyoming,Wyoming,62756,1749257
+Pennsylvania,Pennsylvania,55229,1451732
+South Carolina,South Carolina,51902,1396251
+Utah,Utah,75290,2029401
+West Virginia,West Virginia,42926,1134292
+Washington,Washington,57982,1522212
+Mississippi,Mississippi,32351,780227
+Illinois,Illinois,17370,440324
+New Jersey,New Jersey,65527,1683020
+California,California,106062,2968618
+Ohio,Ohio,34859,908632
+Texas,Texas,42959,1150134
+Oregon,Oregon,109429,2982211
+Oklahoma,Oklahoma,24819,673862
+North Carolina,Nevada,150923,3989200
+North Carolina,Arizona,126539,3346912
+North Carolina,Wisconsin,59526,1533305
+North Carolina,Georgia,25304,608288
+North Carolina,Kansas,75641,2069506
+North Carolina,Connecticut,40304,967482
+North Carolina,Indiana,39586,1016182
+North Carolina,Maine,63678,1543198
+North Carolina,Massachusetts,47917,1141206
+North Carolina,Montana,129548,3386673
+North Carolina,Maryland,20764,503609
+North Carolina,Arkansas,50104,1369942
+North Carolina,Alabama,35463,941172
+North Carolina,Virginia,11379,246391
+North Carolina,Nebraska,86969,2317505
+North Carolina,Kentucky,28650,794889
+North Carolina,New York,33790,816140
+North Carolina,Colorado,101020,2769918
+North Carolina,Vermont,55379,1362592
+North Carolina,South Dakota,92198,2440082
+North Carolina,Michigan,53098,1381362
+North Carolina,Missouri,54833,1472849
+Rhode Island,Rhode Island,44703,1088916
+Idaho,Idaho,142599,3912479
+Delaware,Delaware,25451,603893
+District of Columbia,District of Columbia,18216,454890
+New Hampshire,New Hampshire,50064,1260414
+Minnesota,Minnesota,85703,2173731
+North Dakota,North Dakota,104048,2670203
+Iowa,Iowa,66102,1705030
+Tennessee,Tennessee,33874,897873
+Florida,Florida,41002,1055623
+Louisiana,Louisiana,57831,1488073
+New Mexico,New Mexico,100302,2767904
+Wyoming,Wyoming,112104,3097709
+Pennsylvania,Pennsylvania,32065,790177
+South Carolina,South Carolina,14784,321893
+Utah,Utah,124637,3377855
+West Virginia,West Virginia,23062,549643
+Washington,Washington,18216,454890
+Mississippi,Mississippi,42469,1134957
+Illinois,Illinois,50840,1293473
+New Jersey,New Jersey,31920,758190
+California,California,152901,4262048
+Ohio,Ohio,31263,806947
+Texas,Texas,82312,2212847
+Oregon,Oregon,158776,4330664
+Oklahoma,Oklahoma,70203,1941065
+Rhode Island,Nevada,167499,4389146
+Rhode Island,Arizona,156296,4021345
+Rhode Island,Wisconsin,70129,1802153
+Rhode Island,Georgia,66925,1720040
+Rhode Island,Kansas,96916,2560690
+Rhode Island,Connecticut,7575,187389
+Rhode Island,Indiana,56793,1452655
+Rhode Island,Maine,20672,508329
+Rhode Island,Massachusetts,5406,124126
+Rhode Island,Montana,140152,3655522
+Rhode Island,Maryland,25178,599874
+Rhode Island,Arkansas,83580,2224586
+Rhode Island,Alabama,74906,1968884
+Rhode Island,Virginia,38838,934236
+Rhode Island,Nebraska,100991,2615297
+Rhode Island,Kentucky,53614,1397505
+Rhode Island,New York,12036,276479
+Rhode Island,Colorado,121171,3223352
+Rhode Island,Vermont,17390,446430
+Rhode Island,South Dakota,104239,2719910
+Rhode Island,Michigan,56331,1435477
+Rhode Island,Missouri,76919,1975331
+Rhode Island,North Carolina,44703,1088916
+Idaho,Idaho,156593,4241630
+Delaware,Delaware,24222,562934
+District of Columbia,District of Columbia,27612,630802
+New Hampshire,New Hampshire,9203,225331
+Minnesota,Minnesota,96465,2437938
+North Dakota,North Dakota,114809,2934412
+Iowa,Iowa,78134,2011571
+Tennessee,Tennessee,67584,1749364
+Florida,Florida,82448,2113010
+Louisiana,Louisiana,95534,2466984
+New Mexico,New Mexico,131058,3481206
+Wyoming,Wyoming,126097,3426862
+Pennsylvania,Pennsylvania,24492,580759
+South Carolina,South Carolina,56990,1427168
+Utah,Utah,143923,3829946
+West Virginia,West Virginia,43007,1044339
+Washington,Washington,27612,630802
+Mississippi,Mississippi,80172,2113866
+Illinois,Illinois,67975,1736649
+New Jersey,New Jersey,17926,391784
+California,California,182241,4947748
+Ohio,Ohio,45282,1119056
+Texas,Texas,116014,3109538
+Oregon,Oregon,172770,4659816
+Oklahoma,Oklahoma,102415,2680606
+Idaho,Nevada,42847,874076
+Idaho,Arizona,71467,1749736
+Idaho,Wisconsin,97830,2592553
+Idaho,Georgia,137310,3756842
+Idaho,Kansas,70064,1921155
+Idaho,Connecticut,150436,4105587
+Idaho,Indiana,106648,2941378
+Idaho,Maine,171430,4721582
+Idaho,Massachusetts,155668,4319599
+Idaho,Montana,36277,741192
+Idaho,Maryland,141656,3859326
+Idaho,Arkansas,103424,2907254
+Idaho,Alabama,128488,3447388
+Idaho,Virginia,140168,3830195
+Idaho,Nebraska,59368,1639430
+Idaho,Kentucky,115511,3190427
+Idaho,New York,145667,3983191
+Idaho,Colorado,54688,1361243
+Idaho,Vermont,157792,4240496
+Idaho,South Dakota,64409,1707602
+Idaho,Michigan,113638,3165328
+Idaho,Missouri,93252,2564027
+Idaho,North Carolina,142599,3912479
+Idaho,Rhode Island,156593,4241630
+Delaware,Delaware,147017,3958765
+District of Columbia,District of Columbia,141241,3835428
+New Hampshire,New Hampshire,158527,4252303
+Minnesota,Minnesota,74482,1983144
+North Dakota,North Dakota,60260,1555351
+Iowa,Iowa,81925,2263483
+Tennessee,Tennessee,117702,3206582
+Florida,Florida,157913,4287838
+Louisiana,Louisiana,117155,3267602
+New Mexico,New Mexico,65590,1645282
+Wyoming,Wyoming,41624,1015645
+Pennsylvania,Pennsylvania,134453,3685617
+South Carolina,South Carolina,139350,3834502
+Utah,Utah,35370,827454
+West Virginia,West Virginia,130374,3572544
+Washington,Washington,141241,3835428
+Mississippi,Mississippi,121762,3270726
+Illinois,Illinois,95353,2647823
+New Jersey,New Jersey,148195,4013814
+California,California,56699,1461084
+Ohio,Ohio,118616,3267060
+Texas,Texas,91189,2310392
+Oregon,Oregon,30881,635692
+Oklahoma,Oklahoma,89287,2498740
+Delaware,Nevada,157522,4105847
+Delaware,Arizona,143367,3725718
+Delaware,Wisconsin,60151,1518852
+Delaware,Georgia,47674,1235020
+Delaware,Kansas,83715,2196464
+Delaware,Connecticut,19215,449065
+Delaware,Indiana,43662,1087854
+Delaware,Maine,42589,1024781
+Delaware,Massachusetts,26827,622789
+Delaware,Montana,130174,3372220
+Delaware,Maryland,6427,115356
+Delaware,Arkansas,66932,1748746
+Delaware,Alabama,58258,1493045
+Delaware,Virginia,19586,449214
+Delaware,Nebraska,91013,2331998
+Delaware,Kentucky,38333,979996
+Delaware,New York,12701,297723
+Delaware,Colorado,109093,2896876
+Delaware,Vermont,34290,844177
+Delaware,South Dakota,94261,2436613
+Delaware,Michigan,52061,1294543
+Delaware,Missouri,63718,1611102
+Delaware,North Carolina,25451,603893
+Delaware,Rhode Island,24222,562934
+Delaware,Idaho,147017,3958765
+District of Columbia,District of Columbia,8027,155143
+New Hampshire,New Hampshire,29530,748975
+Minnesota,Minnesota,87042,2164472
+North Dakota,North Dakota,105386,2660940
+Iowa,Iowa,68710,1738102
+Tennessee,Tennessee,49888,1292388
+Florida,Florida,62209,1610039
+Louisiana,Louisiana,77838,2010007
+New Mexico,New Mexico,116316,3162420
+Wyoming,Wyoming,116674,3153390
+Pennsylvania,Pennsylvania,18490,450598
+South Carolina,South Carolina,36750,924193
+Utah,Utah,133774,3539829
+West Virginia,West Virginia,27224,635111
+Washington,Washington,8027,155143
+Mississippi,Mississippi,62476,1656890
+Illinois,Illinois,55874,1401474
+New Jersey,New Jersey,11385,246749
+California,California,168915,4656568
+Ohio,Ohio,34931,820006
+Texas,Texas,98319,2652567
+Oregon,Oregon,163346,4386340
+Oklahoma,Oklahoma,86218,2335579
+District of Columbia,Nevada,151745,3982510
+District of Columbia,Arizona,135758,3578928
+District of Columbia,Wisconsin,54375,1395515
+District of Columbia,Georgia,40438,1086016
+District of Columbia,Kansas,77938,2073127
+District of Columbia,Connecticut,22606,516933
+District of Columbia,Indiana,37885,964517
+District of Columbia,Maine,45980,1092649
+District of Columbia,Massachusetts,30218,690658
+District of Columbia,Montana,124398,3248884
+District of Columbia,Maryland,2960,48091
+District of Columbia,Arkansas,59323,1601960
+District of Columbia,Alabama,50649,1346260
+District of Columbia,Virginia,12351,300210
+District of Columbia,Nebraska,85237,2208663
+District of Columbia,Kentucky,32147,809364
+District of Columbia,New York,16091,365591
+District of Columbia,Colorado,103317,2773540
+District of Columbia,Vermont,37680,912045
+District of Columbia,South Dakota,88485,2313278
+District of Columbia,Michigan,46284,1171206
+District of Columbia,Missouri,57982,1522212
+District of Columbia,North Carolina,18216,454890
+District of Columbia,Rhode Island,27612,630802
+District of Columbia,Idaho,141241,3835428
+District of Columbia,Delaware,8027,155143
+New Hampshire,New Hampshire,32400,804521
+Minnesota,Minnesota,80680,2035806
+North Dakota,North Dakota,99025,2532275
+Iowa,Iowa,62349,1609439
+Tennessee,Tennessee,42099,1129151
+Florida,Florida,55520,1486950
+Louisiana,Louisiana,70049,1846769
+New Mexico,New Mexico,108526,2999179
+Wyoming,Wyoming,110312,3024726
+Pennsylvania,Pennsylvania,14954,350219
+South Carolina,South Carolina,30062,801108
+Utah,Utah,127412,3411165
+West Virginia,West Virginia,19678,433796
+Washington,Washington,0,0
+Mississippi,Mississippi,54687,1493652
+Illinois,Illinois,49512,1272811
+New Jersey,New Jersey,14256,302296
+California,California,161126,4493330
+Ohio,Ohio,28569,691342
+Texas,Texas,90529,2489326
+Oregon,Oregon,156985,4257677
+Oklahoma,Oklahoma,78428,2172338
+New Hampshire,Nevada,169032,4399384
+New Hampshire,Arizona,160252,4099799
+New Hampshire,Wisconsin,71662,1812392
+New Hampshire,Georgia,72287,1891539
+New Hampshire,Kansas,100872,2639145
+New Hampshire,Connecticut,11731,299215
+New Hampshire,Indiana,59897,1498261
+New Hampshire,Maine,16459,401970
+New Hampshire,Massachusetts,5156,110084
+New Hampshire,Montana,141684,3665760
+New Hampshire,Maryland,30540,771373
+New Hampshire,Arkansas,88941,2396086
+New Hampshire,Alabama,80267,2140384
+New Hampshire,Virginia,44199,1105735
+New Hampshire,Nebraska,102524,2625536
+New Hampshire,Kentucky,58975,1569004
+New Hampshire,New York,17460,444510
+New Hampshire,Colorado,122703,3233591
+New Hampshire,Vermont,9120,226762
+New Hampshire,South Dakota,105772,2730150
+New Hampshire,Michigan,57283,1371220
+New Hampshire,Missouri,80875,2053786
+New Hampshire,North Carolina,50064,1260414
+New Hampshire,Rhode Island,9203,225331
+New Hampshire,Idaho,158527,4252303
+New Hampshire,Delaware,29530,748975
+New Hampshire,District of Columbia,32400,804521
+Minnesota,Minnesota,98003,2496582
+North Dakota,North Dakota,116348,2993058
+Iowa,Iowa,79672,2070214
+Tennessee,Tennessee,73973,1915983
+Florida,Florida,88838,2279630
+Louisiana,Louisiana,101923,2633602
+New Mexico,New Mexico,133735,3570882
+Wyoming,Wyoming,127635,3485512
+Pennsylvania,Pennsylvania,29318,661678
+South Carolina,South Carolina,63379,1593788
+Utah,Utah,145461,3888596
+West Virginia,West Virginia,49397,1210958
+Washington,Washington,34002,797420
+Mississippi,Mississippi,86561,2280486
+Illinois,Illinois,69513,1795289
+New Jersey,New Jersey,24316,558401
+California,California,183779,5006396
+Ohio,Ohio,47958,1208724
+Texas,Texas,122404,3276156
+Oregon,Oregon,174308,4718468
+Oklahoma,Oklahoma,105091,2770276
+Minnesota,Nevada,102807,2624224
+Minnesota,Arizona,108995,2706979
+Minnesota,Wisconsin,28648,683999
+Minnesota,Georgia,86837,2294398
+Minnesota,Kansas,47074,1162606
+Minnesota,Connecticut,90308,2301898
+Minnesota,Indiana,47472,1175716
+Minnesota,Maine,107114,2336456
+Minnesota,Massachusetts,95540,2515903
+Minnesota,Montana,49879,1290023
+Minnesota,Maryland,81528,2055640
+Minnesota,Arkansas,59655,1542232
+Minnesota,Alabama,79593,2095014
+Minnesota,Virginia,83272,2091449
+Minnesota,Nebraska,40460,987328
+Minnesota,Kentucky,60644,1540771
+Minnesota,New York,85539,2179502
+Minnesota,Colorado,63814,1617988
+Minnesota,Vermont,93592,2047075
+Minnesota,South Dakota,29709,713842
+Minnesota,Michigan,48999,1160245
+Minnesota,Missouri,45966,1185246
+Minnesota,North Carolina,85703,2173731
+Minnesota,Rhode Island,96465,2437938
+Minnesota,Idaho,74482,1983144
+Minnesota,Delaware,87042,2164472
+Minnesota,District of Columbia,80680,2035806
+Minnesota,New Hampshire,98003,2496582
+North Dakota,North Dakota,23421,571128
+Iowa,Iowa,25436,651255
+Tennessee,Tennessee,67450,1737762
+Florida,Florida,107662,2819020
+Louisiana,Louisiana,77880,2068304
+New Mexico,New Mexico,84513,2175655
+Wyoming,Wyoming,52039,1417420
+Pennsylvania,Pennsylvania,72607,1882296
+South Carolina,South Carolina,83901,2212914
+Utah,Utah,83886,2137740
+West Virginia,West Virginia,72638,1831342
+Washington,Washington,79395,2032112
+Mississippi,Mississippi,72940,1921195
+Illinois,Illinois,38374,1006243
+New Jersey,New Jersey,86349,2210499
+California,California,116776,3202067
+Ohio,Ohio,56770,1463738
+Texas,Texas,76055,2042022
+Oregon,Oregon,96748,2580635
+Oklahoma,Oklahoma,58923,1600833
+North Dakota,Nevada,88585,2196427
+North Dakota,Arizona,98135,2458805
+North Dakota,Wisconsin,46992,1180471
+North Dakota,Georgia,105064,2790203
+North Dakota,Kansas,46404,1166571
+North Dakota,Connecticut,108652,2798371
+North Dakota,Indiana,65816,1672186
+North Dakota,Maine,129647,3414374
+North Dakota,Massachusetts,113885,3012379
+North Dakota,Montana,35657,862227
+North Dakota,Maryland,99873,2552110
+North Dakota,Arkansas,73131,1924493
+North Dakota,Alabama,97615,2568383
+North Dakota,Virginia,101616,2587919
+North Dakota,Nebraska,34220,857196
+North Dakota,Kentucky,78988,2037241
+North Dakota,New York,103884,2675975
+North Dakota,Colorado,51850,1295366
+North Dakota,Vermont,113335,2723374
+North Dakota,South Dakota,21830,529945
+North Dakota,Michigan,67472,1469617
+North Dakota,Missouri,62380,1685010
+North Dakota,North Carolina,104048,2670203
+North Dakota,Rhode Island,114809,2934412
+North Dakota,Idaho,60260,1555351
+North Dakota,Delaware,105386,2660940
+North Dakota,District of Columbia,99025,2532275
+North Dakota,New Hampshire,116348,2993058
+North Dakota,Minnesota,23421,571128
+Iowa,Iowa,43805,1146141
+Tennessee,Tennessee,85570,2240997
+Florida,Florida,125782,3322249
+Louisiana,Louisiana,91446,2449647
+New Mexico,New Mexico,73218,1908756
+Wyoming,Wyoming,37902,971437
+Pennsylvania,Pennsylvania,91228,2380092
+South Carolina,South Carolina,102522,2710706
+Utah,Utah,69749,1691756
+West Virginia,West Virginia,91260,2329139
+Washington,Washington,98017,2529907
+Mississippi,Mississippi,90957,2393240
+Illinois,Illinois,56743,1501131
+New Jersey,New Jersey,104970,2708292
+California,California,102639,2756086
+Ohio,Ohio,75392,1961538
+Texas,Texas,79208,1985322
+Oregon,Oregon,82611,2134652
+Oklahoma,Oklahoma,65912,1695527
+Iowa,Nevada,92429,2410568
+Iowa,Arizona,90184,2191992
+Iowa,Wisconsin,21044,527732
+Iowa,Georgia,65155,1681852
+Iowa,Kansas,27686,748417
+Iowa,Connecticut,71977,1875529
+Iowa,Indiana,28820,742648
+Iowa,Maine,92971,2491527
+Iowa,Massachusetts,77209,2089535
+Iowa,Montana,70186,1865115
+Iowa,Maryland,63197,1629273
+Iowa,Arkansas,38805,961009
+Iowa,Alabama,57910,1482469
+Iowa,Virginia,63670,1622750
+Iowa,Nebraska,25921,636721
+Iowa,Kentucky,40465,1070596
+Iowa,New York,67208,1753134
+Iowa,Colorado,46101,1244773
+Iowa,Vermont,79333,2010450
+Iowa,South Dakota,29485,741143
+Iowa,Michigan,35179,935277
+Iowa,Missouri,22375,542944
+Iowa,North Carolina,66102,1705030
+Iowa,Rhode Island,78134,2011571
+Iowa,Idaho,81925,2263483
+Iowa,Delaware,68710,1738102
+Iowa,District of Columbia,62349,1609439
+Iowa,New Hampshire,79672,2070214
+Iowa,Minnesota,25436,651255
+Iowa,North Dakota,43805,1146141
+Tennessee,Tennessee,45095,1161660
+Florida,Florida,85307,2242914
+Louisiana,Louisiana,56887,1493243
+New Mexico,New Mexico,64077,1620711
+Wyoming,Wyoming,50996,1458745
+Pennsylvania,Pennsylvania,55333,1459239
+South Carolina,South Carolina,64229,1748723
+Utah,Utah,68821,1861826
+West Virginia,West Virginia,53357,1368645
+Washington,Washington,62121,1609052
+Mississippi,Mississippi,50834,1336746
+Illinois,Illinois,16233,421449
+New Jersey,New Jersey,69075,1787438
+California,California,107140,2979629
+Ohio,Ohio,39496,1040680
+Texas,Texas,55062,1466961
+Oregon,Oregon,97668,2691693
+Oklahoma,Oklahoma,37930,1025770
+Tennessee,Nevada,126343,3284680
+Tennessee,Arizona,99676,2541525
+Tennessee,Wisconsin,43929,1123099
+Tennessee,Georgia,24313,614845
+Tennessee,Kansas,51062,1364988
+Tennessee,Connecticut,62370,1638806
+Tennessee,Indiana,24520,621022
+Tennessee,Maine,85951,2211210
+Tennessee,Massachusetts,70190,1809221
+Tennessee,Montana,110447,2931436
+Tennessee,Maryland,44738,1191649
+Tennessee,Arkansas,23241,564551
+Tennessee,Alabama,17415,412535
+Tennessee,Virginia,34107,899125
+Tennessee,Nebraska,62389,1612984
+Tennessee,Kentucky,17944,422221
+Tennessee,New York,55908,1482374
+Tennessee,Colorado,76440,2065398
+Tennessee,Vermont,76411,1900289
+Tennessee,South Dakota,69530,1852044
+Tennessee,Michigan,45085,1199340
+Tennessee,Missouri,29786,690262
+Tennessee,North Carolina,33874,897873
+Tennessee,Rhode Island,67584,1749364
+Tennessee,Idaho,117702,3206582
+Tennessee,Delaware,49888,1292388
+Tennessee,District of Columbia,42099,1129151
+Tennessee,New Hampshire,73973,1915983
+Tennessee,Minnesota,67450,1737762
+Tennessee,North Dakota,85570,2240997
+Tennessee,Iowa,45095,1161660
+Florida,Florida,44498,1146598
+Louisiana,Louisiana,36228,905292
+New Mexico,New Mexico,72045,1961740
+Wyoming,Wyoming,86619,2392017
+Pennsylvania,Pennsylvania,49154,1312948
+South Carolina,South Carolina,27888,695060
+Utah,Utah,99153,2672157
+West Virginia,West Virginia,33319,864826
+Washington,Washington,41858,1127306
+Mississippi,Mississippi,20866,552175
+Illinois,Illinois,31042,776202
+New Jersey,New Jersey,55049,1428046
+California,California,124645,3455880
+Ohio,Ohio,28784,769847
+Texas,Texas,54048,1451885
+Oregon,Oregon,133292,3624965
+Oklahoma,Oklahoma,41947,1134900
+Florida,Nevada,159998,4279521
+Florida,Arizona,125016,3437391
+Florida,Wisconsin,84141,2204356
+Florida,Georgia,24302,609573
+Florida,Kansas,91273,2446244
+Florida,Connecticut,77442,1999142
+Florida,Indiana,64732,1702282
+Florida,Maine,100816,2574860
+Florida,Massachusetts,85054,2172865
+Florida,Montana,150659,4012687
+Florida,Maryland,57901,1535270
+Florida,Arkansas,59369,1525966
+Florida,Alabama,34403,864189
+Florida,Virginia,49876,1297757
+Florida,Nebraska,102601,2694241
+Florida,Kentucky,50862,1366443
+Florida,New York,70928,1847800
+Florida,Colorado,116652,3146656
+Florida,Vermont,92517,2394255
+Florida,South Dakota,109742,2933298
+Florida,Michigan,84618,2253530
+Florida,Missouri,70465,1849586
+Florida,North Carolina,41002,1055623
+Florida,Rhode Island,82448,2113010
+Florida,Idaho,157913,4287838
+Florida,Delaware,62209,1610039
+Florida,District of Columbia,55520,1486950
+Florida,New Hampshire,88838,2279630
+Florida,Minnesota,107662,2819020
+Florida,North Dakota,125782,3322249
+Florida,Iowa,85307,2242914
+Florida,Tennessee,44498,1146598
+Louisiana,Louisiana,52014,1347374
+New Mexico,New Mexico,107310,2826802
+Wyoming,Wyoming,128409,3471015
+Pennsylvania,Pennsylvania,68846,1822500
+South Carolina,South Carolina,30703,770971
+Utah,Utah,140942,3751155
+West Virginia,West Virginia,56577,1448772
+Washington,Washington,54996,1487212
+Mississippi,Mississippi,44718,1139158
+Illinois,Illinois,72831,1855191
+New Jersey,New Jersey,68700,1790513
+California,California,160376,4458802
+Ohio,Ohio,64777,1706076
+Texas,Texas,83136,2181832
+Oregon,Oregon,175081,4703969
+Oklahoma,Oklahoma,78396,2032284
+Louisiana,Nevada,111160,2901908
+Louisiana,Arizona,81663,2160663
+Louisiana,Wisconsin,66121,1668408
+Louisiana,Georgia,44040,1087559
+Louisiana,Kansas,49353,1343829
+Louisiana,Connecticut,90320,2356428
+Louisiana,Indiana,54487,1348532
+Louisiana,Maine,113901,2928833
+Louisiana,Massachusetts,98139,2526837
+Louisiana,Montana,110450,3073159
+Louisiana,Maryland,72688,1909267
+Louisiana,Arkansas,22616,524263
+Louisiana,Alabama,25863,606762
+Louisiana,Virginia,62056,1616746
+Louisiana,Nebraska,63569,1698243
+Louisiana,Kentucky,49608,1308573
+Louisiana,New York,83858,2199994
+Louisiana,Colorado,73738,1866765
+Louisiana,Vermont,105003,2709084
+Louisiana,South Dakota,73875,1950036
+Louisiana,Michigan,70511,1796129
+Louisiana,Missouri,39485,958056
+Louisiana,North Carolina,57831,1488073
+Louisiana,Rhode Island,95534,2466984
+Louisiana,Idaho,117155,3267602
+Louisiana,Delaware,77838,2010007
+Louisiana,District of Columbia,70049,1846769
+Louisiana,New Hampshire,101923,2633602
+Louisiana,Minnesota,77880,2068304
+Louisiana,North Dakota,91446,2449647
+Louisiana,Iowa,56887,1493243
+Louisiana,Tennessee,36228,905292
+Louisiana,Florida,52014,1347374
+New Mexico,New Mexico,57709,1522996
+Wyoming,Wyoming,85771,2394942
+Pennsylvania,Pennsylvania,79686,2081662
+South Carolina,South Carolina,48578,1215730
+Utah,Utah,93331,2404358
+West Virginia,West Virginia,63931,1630824
+Washington,Washington,70467,1851398
+Mississippi,Mississippi,15944,355748
+Illinois,Illinois,50870,1334483
+New Jersey,New Jersey,83658,2152140
+California,California,110876,3037633
+Ohio,Ohio,60985,1616163
+Texas,Texas,33535,878035
+Oregon,Oregon,132493,3628158
+Oklahoma,Oklahoma,29318,719348
+New Mexico,Nevada,58829,1468264
+New Mexico,Arizona,32847,716494
+New Mexico,Wisconsin,83382,2137452
+New Mexico,Georgia,89661,2452846
+New Mexico,Kansas,40214,993040
+New Mexico,Connecticut,124901,3345166
+New Mexico,Indiana,77009,2102814
+New Mexico,Maine,147034,3992198
+New Mexico,Massachusetts,131272,3590202
+New Mexico,Montana,69838,1886622
+New Mexico,Maryland,111166,3061678
+New Mexico,Arkansas,51726,1406761
+New Mexico,Alabama,74518,1976500
+New Mexico,Virginia,100534,2769151
+New Mexico,Nebraska,44390,1176739
+New Mexico,Kentucky,80190,2224156
+New Mexico,New York,119450,3182652
+New Mexico,Colorado,29357,652666
+New Mexico,Vermont,133396,3511101
+New Mexico,South Dakota,56737,1480286
+New Mexico,Michigan,92108,2536827
+New Mexico,Missouri,53463,1474466
+New Mexico,North Carolina,100302,2767904
+New Mexico,Rhode Island,131058,3481206
+New Mexico,Idaho,65590,1645282
+New Mexico,Delaware,116316,3162420
+New Mexico,District of Columbia,108526,2999179
+New Mexico,New Hampshire,133735,3570882
+New Mexico,Minnesota,84513,2175655
+New Mexico,North Dakota,73218,1908756
+New Mexico,Iowa,64077,1620711
+New Mexico,Tennessee,72045,1961740
+New Mexico,Florida,107310,2826802
+New Mexico,Louisiana,57709,1522996
+Wyoming,Wyoming,45997,1265786
+Pennsylvania,Pennsylvania,108113,2921847
+South Carolina,South Carolina,94500,2536158
+Utah,Utah,40755,960016
+West Virginia,West Virginia,95810,2604408
+Washington,Washington,109265,3003030
+Mississippi,Mississippi,65038,1725148
+Illinois,Illinois,70254,1910440
+New Jersey,New Jersey,118411,3153136
+California,California,58300,1593293
+Ohio,Ohio,87743,2378749
+Texas,Texas,27884,723336
+Oregon,Oregon,82093,2058865
+Oklahoma,Oklahoma,34739,927443
+Wyoming,Nevada,52924,1247460
+Wyoming,Arizona,68007,1550484
+Wyoming,Wisconsin,63512,1742782
+Wyoming,Georgia,106815,2942078
+Wyoming,Kansas,39568,1106391
+Wyoming,Connecticut,119940,3290821
+Wyoming,Indiana,76153,2126608
+Wyoming,Maine,140934,3906828
+Wyoming,Massachusetts,125173,3504832
+Wyoming,Montana,29193,705790
+Wyoming,Maryland,111161,3044561
+Wyoming,Arkansas,72878,2092225
+Wyoming,Alabama,97992,2632630
+Wyoming,Virginia,109672,3015424
+Wyoming,Nebraska,28441,741617
+Wyoming,Kentucky,85015,2375656
+Wyoming,New York,115172,3168426
+Wyoming,Colorado,24326,633944
+Wyoming,Vermont,127296,3425731
+Wyoming,South Dakota,28986,803060
+Wyoming,Michigan,83143,2350563
+Wyoming,Missouri,62756,1749257
+Wyoming,North Carolina,112104,3097709
+Wyoming,Rhode Island,126097,3426862
+Wyoming,Idaho,41624,1015645
+Wyoming,Delaware,116674,3153390
+Wyoming,District of Columbia,110312,3024726
+Wyoming,New Hampshire,127635,3485512
+Wyoming,Minnesota,52039,1417420
+Wyoming,North Dakota,37902,971437
+Wyoming,Iowa,50996,1458745
+Wyoming,Tennessee,86619,2392017
+Wyoming,Florida,128409,3471015
+Wyoming,Louisiana,85771,2394942
+Wyoming,New Mexico,45997,1265786
+Pennsylvania,Pennsylvania,103057,2790005
+South Carolina,South Carolina,107954,2938889
+Utah,Utah,34545,769853
+West Virginia,West Virginia,98978,2676932
+Washington,Washington,109845,2939816
+Mississippi,Mississippi,90366,2375112
+Illinois,Illinois,63957,1752217
+New Jersey,New Jersey,116799,3118202
+California,California,69827,1771631
+Ohio,Ohio,87220,2371446
+Texas,Texas,62628,1670180
+Oregon,Oregon,57628,1435630
+Oklahoma,Oklahoma,58441,1683842
+Pennsylvania,Nevada,144957,3832699
+Pennsylvania,Arizona,134606,3497746
+Pennsylvania,Wisconsin,47587,1245701
+Pennsylvania,Georgia,53127,1369553
+Pennsylvania,Kansas,75226,2037093
+Pennsylvania,Connecticut,18335,444714
+Pennsylvania,Indiana,34250,896205
+Pennsylvania,Maine,42288,1030839
+Pennsylvania,Massachusetts,26526,628848
+Pennsylvania,Montana,117609,3099070
+Pennsylvania,Maryland,13651,320219
+Pennsylvania,Arkansas,64010,1719405
+Pennsylvania,Alabama,59868,1576523
+Pennsylvania,Virginia,24452,601426
+Pennsylvania,Nebraska,78449,2058850
+Pennsylvania,Kentucky,34225,890707
+Pennsylvania,New York,13566,322321
+Pennsylvania,Colorado,98628,2666904
+Pennsylvania,Vermont,29802,724862
+Pennsylvania,South Dakota,81697,2163462
+Pennsylvania,Michigan,39496,1021393
+Pennsylvania,Missouri,55229,1451732
+Pennsylvania,North Carolina,32065,790177
+Pennsylvania,Rhode Island,24492,580759
+Pennsylvania,Idaho,134453,3685617
+Pennsylvania,Delaware,18490,450598
+Pennsylvania,District of Columbia,14954,350219
+Pennsylvania,New Hampshire,29318,661678
+Pennsylvania,Minnesota,72607,1882296
+Pennsylvania,North Dakota,91228,2380092
+Pennsylvania,Iowa,55333,1459239
+Pennsylvania,Tennessee,49154,1312948
+Pennsylvania,Florida,68846,1822500
+Pennsylvania,Louisiana,79686,2081662
+Pennsylvania,New Mexico,108113,2921847
+Pennsylvania,Wyoming,103057,2790005
+South Carolina,South Carolina,41349,1088199
+Utah,Utah,121147,3276771
+West Virginia,West Virginia,22027,531646
+Washington,Washington,15532,348052
+Mississippi,Mississippi,64085,1724057
+Illinois,Illinois,45199,1183475
+New Jersey,New Jersey,16905,375024
+California,California,159465,4394576
+Ohio,Ohio,22506,565880
+Texas,Texas,97779,2603702
+Oregon,Oregon,149994,4106639
+Oklahoma,Oklahoma,79639,2127431
+South Carolina,Nevada,147651,3901734
+South Carolina,Arizona,122092,3221240
+South Carolina,Wisconsin,58881,1576316
+South Carolina,Georgia,12649,301192
+South Carolina,Kansas,72710,1992908
+South Carolina,Connecticut,52222,1367448
+South Carolina,Indiana,39335,1066962
+South Carolina,Maine,75357,1889017
+South Carolina,Massachusetts,59596,1487025
+South Carolina,Montana,128903,3429684
+South Carolina,Maryland,32443,849428
+South Carolina,Arkansas,44558,1135088
+South Carolina,Alabama,24556,642880
+South Carolina,Virginia,21794,556973
+South Carolina,Nebraska,84038,2240907
+South Carolina,Kentucky,24980,685343
+South Carolina,New York,45469,1161959
+South Carolina,Colorado,98088,2693320
+South Carolina,Vermont,66905,1720109
+South Carolina,South Dakota,91179,2479964
+South Carolina,Michigan,57196,1499528
+South Carolina,Missouri,51902,1396251
+South Carolina,North Carolina,14784,321893
+South Carolina,Rhode Island,56990,1427168
+South Carolina,Idaho,139350,3834502
+South Carolina,Delaware,36750,924193
+South Carolina,District of Columbia,30062,801108
+South Carolina,New Hampshire,63379,1593788
+South Carolina,Minnesota,83901,2212914
+South Carolina,North Dakota,102522,2710706
+South Carolina,Iowa,64229,1748723
+South Carolina,Tennessee,27888,695060
+South Carolina,Florida,30703,770971
+South Carolina,Louisiana,48578,1215730
+South Carolina,New Mexico,94500,2536158
+South Carolina,Wyoming,107954,2938889
+South Carolina,Pennsylvania,41349,1088199
+Utah,Utah,122099,3301072
+West Virginia,West Virginia,27843,666658
+Washington,Washington,29774,800767
+Mississippi,Mississippi,32560,861550
+Illinois,Illinois,50304,1334670
+New Jersey,New Jersey,43478,1104069
+California,California,146065,4025011
+Ohio,Ohio,36043,923962
+Texas,Texas,72402,1939440
+Oregon,Oregon,156238,4253878
+Oklahoma,Oklahoma,63367,1704023
+Utah,Nevada,38611,757465
+Utah,Arizona,47348,936044
+Utah,Wisconsin,88127,2378567
+Utah,Georgia,119348,3222218
+Utah,Kansas,50869,1356464
+Utah,Connecticut,137766,3693905
+Utah,Indiana,92758,2526226
+Utah,Maine,158760,4309910
+Utah,Massachusetts,142998,3907916
+Utah,Montana,49992,1139575
+Utah,Maryland,128260,3431000
+Utah,Arkansas,83860,2291500
+Utah,Alabama,110042,2983844
+Utah,Virginia,122205,3295571
+Utah,Nebraska,46698,1227747
+Utah,Kentucky,97549,2655803
+Utah,New York,132997,3571510
+Utah,Colorado,29527,680579
+Utah,Vermont,145122,3828815
+Utah,South Dakota,59046,1531294
+Utah,Michigan,100968,2753646
+Utah,Missouri,75290,2029401
+Utah,North Carolina,124637,3377855
+Utah,Rhode Island,143923,3829946
+Utah,Idaho,35370,827454
+Utah,Delaware,133774,3539829
+Utah,District of Columbia,127412,3411165
+Utah,New Hampshire,145461,3888596
+Utah,Minnesota,83886,2137740
+Utah,North Dakota,69749,1691756
+Utah,Iowa,68821,1861826
+Utah,Tennessee,99153,2672157
+Utah,Florida,140942,3751155
+Utah,Louisiana,93331,2404358
+Utah,New Mexico,40755,960016
+Utah,Wyoming,34545,769853
+Utah,Pennsylvania,121147,3276771
+Utah,South Carolina,122099,3301072
+West Virginia,West Virginia,111600,3039806
+Washington,Washington,125804,3381986
+Mississippi,Mississippi,101030,2599521
+Illinois,Illinois,82016,2237558
+New Jersey,New Jersey,133390,3577240
+California,California,49677,1264683
+Ohio,Ohio,102722,2802853
+Texas,Texas,66502,1630388
+Oregon,Oregon,51872,1245668
+Oklahoma,Oklahoma,69351,1883830
+West Virginia,Nevada,139015,3650640
+West Virginia,Arizona,122303,3180306
+West Virginia,Wisconsin,47618,1194747
+West Virginia,Georgia,38337,946126
+West Virginia,Kansas,63734,1730949
+West Virginia,Connecticut,37793,933780
+West Virginia,Indiana,27679,677624
+West Virginia,Maine,61375,1506187
+West Virginia,Massachusetts,45613,1104195
+West Virginia,Montana,117641,3048116
+West Virginia,Maryland,21711,526282
+West Virginia,Arkansas,48175,1271282
+West Virginia,Alabama,44113,1125686
+West Virginia,Virginia,17549,364442
+West Virginia,Nebraska,75062,1978945
+West Virginia,Kentucky,17090,421444
+West Virginia,New York,31331,777348
+West Virginia,Colorado,89112,2431359
+West Virginia,Vermont,51454,1253434
+West Virginia,South Dakota,80290,2101524
+West Virginia,Michigan,40952,1036538
+West Virginia,Missouri,42926,1134292
+West Virginia,North Carolina,23062,549643
+West Virginia,Rhode Island,43007,1044339
+West Virginia,Idaho,130374,3572544
+West Virginia,Delaware,27224,635111
+West Virginia,District of Columbia,19678,433796
+West Virginia,New Hampshire,49397,1210958
+West Virginia,Minnesota,72638,1831342
+West Virginia,North Dakota,91260,2329139
+West Virginia,Iowa,53357,1368645
+West Virginia,Tennessee,33319,864826
+West Virginia,Florida,56577,1448772
+West Virginia,Louisiana,63931,1630824
+West Virginia,New Mexico,95810,2604408
+West Virginia,Wyoming,98978,2676932
+West Virginia,Pennsylvania,22027,531646
+West Virginia,South Carolina,27843,666658
+West Virginia,Utah,111600,3039806
+Washington,Washington,19610,433654
+Mississippi,Mississippi,47954,1274681
+Illinois,Illinois,38302,954118
+New Jersey,New Jersey,30371,759952
+California,California,147339,4101008
+Ohio,Ohio,18476,461263
+Texas,Texas,80779,2187960
+Oregon,Oregon,146238,3991308
+Oklahoma,Oklahoma,66096,1806250
+Washington,Nevada,151745,3982510
+Washington,Arizona,135758,3578928
+Washington,Wisconsin,54375,1395515
+Washington,Georgia,40438,1086016
+Washington,Kansas,77938,2073127
+Washington,Connecticut,22606,516933
+Washington,Indiana,37885,964517
+Washington,Maine,45980,1092649
+Washington,Massachusetts,30218,690658
+Washington,Montana,124398,3248884
+Washington,Maryland,2960,48091
+Washington,Arkansas,59323,1601960
+Washington,Alabama,50649,1346260
+Washington,Virginia,12351,300210
+Washington,Nebraska,85237,2208663
+Washington,Kentucky,32147,809364
+Washington,New York,16091,365591
+Washington,Colorado,103317,2773540
+Washington,Vermont,37680,912045
+Washington,South Dakota,88485,2313278
+Washington,Michigan,46284,1171206
+Washington,Missouri,57982,1522212
+Washington,North Carolina,18216,454890
+Washington,Rhode Island,27612,630802
+Washington,Idaho,141241,3835428
+Washington,Delaware,8027,155143
+Washington,District of Columbia,0,0
+Washington,New Hampshire,34002,797420
+Washington,Minnesota,79395,2032112
+Washington,North Dakota,98017,2529907
+Washington,Iowa,62121,1609052
+Washington,Tennessee,41858,1127306
+Washington,Florida,54996,1487212
+Washington,Louisiana,70467,1851398
+Washington,New Mexico,109265,3003030
+Washington,Wyoming,109845,2939816
+Washington,Pennsylvania,15532,348052
+Washington,South Carolina,29774,800767
+Washington,Utah,125804,3381986
+Washington,West Virginia,19610,433654
+Mississippi,Mississippi,54687,1493652
+Illinois,Illinois,49512,1272811
+New Jersey,New Jersey,14256,302296
+California,California,161126,4493330
+Ohio,Ohio,28569,691342
+Texas,Texas,90529,2489326
+Oregon,Oregon,156985,4257677
+Oklahoma,Oklahoma,78428,2172338
+Mississippi,Nevada,118955,3102504
+Mississippi,Arizona,89457,2361258
+Mississippi,Wisconsin,55246,1460839
+Mississippi,Georgia,28755,783528
+Mississippi,Kansas,54959,1457507
+Mississippi,Connecticut,74958,2003308
+Mississippi,Indiana,41579,1129536
+Mississippi,Maine,98539,2575716
+Mississippi,Massachusetts,82778,2173721
+Mississippi,Montana,114508,2995575
+Mississippi,Maryland,57326,1556150
+Mississippi,Arkansas,21357,526446
+Mississippi,Alabama,10501,253645
+Mississippi,Virginia,46695,1263629
+Mississippi,Nebraska,66450,1677126
+Mississippi,Kentucky,34246,955455
+Mississippi,New York,68496,1846876
+Mississippi,Colorado,80337,2157920
+Mississippi,Vermont,89641,2355964
+Mississippi,South Dakota,73591,1916185
+Mississippi,Michigan,59636,1588560
+Mississippi,Missouri,32351,780227
+Mississippi,North Carolina,42469,1134957
+Mississippi,Rhode Island,80172,2113866
+Mississippi,Idaho,121762,3270726
+Mississippi,Delaware,62476,1656890
+Mississippi,District of Columbia,54687,1493652
+Mississippi,New Hampshire,86561,2280486
+Mississippi,Minnesota,72940,1921195
+Mississippi,North Dakota,90957,2393240
+Mississippi,Iowa,50834,1336746
+Mississippi,Tennessee,20866,552175
+Mississippi,Florida,44718,1139158
+Mississippi,Louisiana,15944,355748
+Mississippi,New Mexico,65038,1725148
+Mississippi,Wyoming,90366,2375112
+Mississippi,Pennsylvania,64085,1724057
+Mississippi,South Carolina,32560,861550
+Mississippi,Utah,101030,2599521
+Mississippi,West Virginia,47954,1274681
+Mississippi,Washington,54687,1493652
+Illinois,Illinois,39863,1056824
+New Jersey,New Jersey,68048,1798654
+California,California,117743,3240036
+Ohio,Ohio,46437,1278504
+Texas,Texas,40401,1080435
+Oregon,Oregon,137477,3800015
+Oklahoma,Oklahoma,35662,930887
+Illinois,Nevada,105857,2794906
+Illinois,Arizona,96747,2486340
+Illinois,Wisconsin,17162,412701
+Illinois,Georgia,51237,1326258
+Illinois,Kansas,35680,982189
+Illinois,Connecticut,61818,1600607
+Illinois,Indiana,14023,333589
+Illinois,Maine,82812,2216600
+Illinois,Massachusetts,67051,1814610
+Illinois,Montana,83124,2220103
+Illinois,Maryland,50360,1292644
+Illinois,Arkansas,31790,783353
+Illinois,Alabama,44882,1145258
+Illinois,Virginia,48409,1211191
+Illinois,Nebraska,39349,1021061
+Illinois,Kentucky,25204,659040
+Illinois,New York,57050,1478212
+Illinois,Colorado,59529,1629110
+Illinois,Vermont,69174,1735524
+Illinois,South Dakota,43167,1154327
+Illinois,Michigan,25020,660353
+Illinois,Missouri,17370,440324
+Illinois,North Carolina,50840,1293473
+Illinois,Rhode Island,67975,1736649
+Illinois,Idaho,95353,2647823
+Illinois,Delaware,55874,1401474
+Illinois,District of Columbia,49512,1272811
+Illinois,New Hampshire,69513,1795289
+Illinois,Minnesota,38374,1006243
+Illinois,North Dakota,56743,1501131
+Illinois,Iowa,16233,421449
+Illinois,Tennessee,31042,776202
+Illinois,Florida,72831,1855191
+Illinois,Louisiana,50870,1334483
+Illinois,New Mexico,70254,1910440
+Illinois,Wyoming,63957,1752217
+Illinois,Pennsylvania,45199,1183475
+Illinois,South Carolina,50304,1334670
+Illinois,Utah,82016,2237558
+Illinois,West Virginia,38302,954118
+Illinois,Washington,49512,1272811
+Illinois,Mississippi,39863,1056824
+New Jersey,New Jersey,55568,1436639
+California,California,120186,3354553
+Ohio,Ohio,24900,662248
+Texas,Texas,58946,1591636
+Oregon,Oregon,110714,3066617
+Oklahoma,Oklahoma,40806,1115364
+New Jersey,Nevada,158699,4160896
+New Jersey,Arizona,144903,3729035
+New Jersey,Wisconsin,61329,1573901
+New Jersey,Georgia,54142,1389316
+New Jersey,Kansas,85524,2268382
+New Jersey,Connecticut,12920,277914
+New Jersey,Indiana,45471,1159773
+New Jersey,Maine,36294,853630
+New Jersey,Massachusetts,20532,451639
+New Jersey,Montana,131351,3427269
+New Jersey,Maryland,12395,269148
+New Jersey,Arkansas,72513,1902701
+New Jersey,Alabama,63839,1647000
+New Jersey,Virginia,26055,603510
+New Jersey,Nebraska,92191,2387047
+New Jersey,Kentucky,42587,1110554
+New Jersey,New York,6405,126572
+New Jersey,Colorado,110902,2968794
+New Jersey,Vermont,27994,673027
+New Jersey,South Dakota,95439,2491662
+New Jersey,Michigan,53238,1349592
+New Jersey,Missouri,65527,1683020
+New Jersey,North Carolina,31920,758190
+New Jersey,Rhode Island,17926,391784
+New Jersey,Idaho,148195,4013814
+New Jersey,Delaware,11385,246749
+New Jersey,District of Columbia,14256,302296
+New Jersey,New Hampshire,24316,558401
+New Jersey,Minnesota,86349,2210499
+New Jersey,North Dakota,104970,2708292
+New Jersey,Iowa,69075,1787438
+New Jersey,Tennessee,55049,1428046
+New Jersey,Florida,68700,1790513
+New Jersey,Louisiana,83658,2152140
+New Jersey,New Mexico,118411,3153136
+New Jersey,Wyoming,116799,3118202
+New Jersey,Pennsylvania,16905,375024
+New Jersey,South Carolina,43478,1104069
+New Jersey,Utah,133390,3577240
+New Jersey,West Virginia,30371,759952
+New Jersey,Washington,14256,302296
+New Jersey,Mississippi,68048,1798654
+New Jersey,Illinois,55568,1436639
+California,California,171428,4654824
+Ohio,Ohio,36431,857505
+Texas,Texas,103869,2786844
+Oregon,Oregon,164096,4435788
+Oklahoma,Oklahoma,90185,2360069
+California,Nevada,35613,670939
+California,Arizona,47678,1180587
+California,Wisconsin,126445,3496371
+California,Georgia,142261,3946990
+California,Kansas,89188,2474268
+California,Connecticut,176084,4811704
+California,Indiana,129608,3596963
+California,Maine,197078,5427702
+California,Massachusetts,181317,5025718
+California,Montana,80083,2026942
+California,Maryland,163765,4555825
+California,Arkansas,104326,2900908
+California,Alabama,127685,3491139
+California,Virginia,153134,4263287
+California,Nebraska,85017,2345550
+California,Kentucky,132790,3718310
+California,New York,171316,4689310
+California,Colorado,67845,1798381
+California,Vermont,183441,4946626
+California,South Dakota,96760,2535201
+California,Michigan,139287,3871450
+California,Missouri,106062,2968618
+California,North Carolina,152901,4262048
+California,Rhode Island,182241,4947748
+California,Idaho,56699,1461084
+California,Delaware,168915,4656568
+California,District of Columbia,161126,4493330
+California,New Hampshire,183779,5006396
+California,Minnesota,116776,3202067
+California,North Dakota,102639,2756086
+California,Iowa,107140,2979629
+California,Tennessee,124645,3455880
+California,Florida,160376,4458802
+California,Louisiana,110876,3037633
+California,New Mexico,58300,1593293
+California,Wyoming,69827,1771631
+California,Pennsylvania,159465,4394576
+California,South Carolina,146065,4025011
+California,Utah,49677,1264683
+California,West Virginia,147339,4101008
+California,Washington,161126,4493330
+California,Mississippi,117743,3240036
+California,Illinois,120186,3354553
+California,New Jersey,171428,4654824
+Ohio,Ohio,139877,3876170
+Texas,Texas,83410,2265218
+Oregon,Oregon,42603,1080049
+Oklahoma,Oklahoma,86873,2424869
+Ohio,Nevada,129120,3414141
+Ohio,Arizona,114236,2954648
+Ohio,Wisconsin,31750,827143
+Ohio,Georgia,45303,1227601
+Ohio,Kansas,54856,1493995
+Ohio,Connecticut,39125,983013
+Ohio,Indiana,14803,385383
+Ohio,Maine,61257,1630037
+Ohio,Massachusetts,45496,1228045
+Ohio,Montana,101773,2680510
+Ohio,Maryland,29417,711177
+Ohio,Arkansas,43640,1176303
+Ohio,Alabama,42623,1138904
+Ohio,Virginia,28831,724665
+Ohio,Nebraska,62612,1640292
+Ohio,Kentucky,15591,401319
+Ohio,New York,34356,860619
+Ohio,Colorado,80234,2194406
+Ohio,Vermont,47619,1148954
+Ohio,South Dakota,65860,1744904
+Ohio,Michigan,23295,593792
+Ohio,Missouri,34859,908632
+Ohio,North Carolina,31263,806947
+Ohio,Rhode Island,45282,1119056
+Ohio,Idaho,118616,3267060
+Ohio,Delaware,34931,820006
+Ohio,District of Columbia,28569,691342
+Ohio,New Hampshire,47958,1208724
+Ohio,Minnesota,56770,1463738
+Ohio,North Dakota,75392,1961538
+Ohio,Iowa,39496,1040680
+Ohio,Tennessee,28784,769847
+Ohio,Florida,64777,1706076
+Ohio,Louisiana,60985,1616163
+Ohio,New Mexico,87743,2378749
+Ohio,Wyoming,87220,2371446
+Ohio,Pennsylvania,22506,565880
+Ohio,South Carolina,36043,923962
+Ohio,Utah,102722,2802853
+Ohio,West Virginia,18476,461263
+Ohio,Washington,28569,691342
+Ohio,Mississippi,46437,1278504
+Ohio,Illinois,24900,662248
+Ohio,New Jersey,36431,857505
+Ohio,California,139877,3876170
+Texas,Texas,76361,2035532
+Oregon,Oregon,132926,3635101
+Oklahoma,Oklahoma,58221,1559260
+Texas,Nevada,84427,2133372
+Texas,Arizona,51624,1352775
+Texas,Wisconsin,74368,1983704
+Texas,Georgia,68598,1861420
+Texas,Kansas,38617,1016164
+Texas,Connecticut,110800,2998982
+Texas,Indiana,66505,1778481
+Texas,Maine,134382,3571386
+Texas,Massachusetts,118620,3169391
+Texas,Montana,86769,2290642
+Texas,Maryland,93169,2551824
+Texas,Arkansas,34598,937062
+Texas,Alabama,50344,1331538
+Texas,Virginia,82537,2259298
+Texas,Nebraska,47749,1194582
+Texas,Kentucky,65488,1790291
+Texas,New York,104339,2842548
+Texas,Colorado,49807,1236626
+Texas,Vermont,122892,3186771
+Texas,South Dakota,60336,1537800
+Texas,Michigan,81605,2212494
+Texas,Missouri,42959,1150134
+Texas,North Carolina,82312,2212847
+Texas,Rhode Island,116014,3109538
+Texas,Idaho,91189,2310392
+Texas,Delaware,98319,2652567
+Texas,District of Columbia,90529,2489326
+Texas,New Hampshire,122404,3276156
+Texas,Minnesota,76055,2042022
+Texas,North Dakota,79208,1985322
+Texas,Iowa,55062,1466961
+Texas,Tennessee,54048,1451885
+Texas,Florida,83136,2181832
+Texas,Louisiana,33535,878035
+Texas,New Mexico,27884,723336
+Texas,Wyoming,62628,1670180
+Texas,Pennsylvania,97779,2603702
+Texas,South Carolina,72402,1939440
+Texas,Utah,66502,1630388
+Texas,West Virginia,80779,2187960
+Texas,Washington,90529,2489326
+Texas,Mississippi,40401,1080435
+Texas,Illinois,58946,1591636
+Texas,New Jersey,103869,2786844
+Texas,California,83410,2265218
+Texas,Ohio,76361,2035532
+Oregon,Oregon,107115,2729187
+Oklahoma,Oklahoma,21712,534007
+Oregon,Nevada,43494,860851
+Oregon,Arizona,78735,1971005
+Oregon,Wisconsin,116973,3208435
+Oregon,Georgia,153487,4175026
+Oregon,Kansas,86241,2339344
+Oregon,Connecticut,166613,4523772
+Oregon,Indiana,122825,3359562
+Oregon,Maine,187607,5139774
+Oregon,Massachusetts,171845,4737790
+Oregon,Montana,57990,1406565
+Oregon,Maryland,157833,4277510
+Oregon,Arkansas,119601,3325440
+Oregon,Alabama,144664,3865572
+Oregon,Virginia,156345,4248375
+Oregon,Nebraska,75545,2057614
+Oregon,Kentucky,131688,3608611
+Oregon,New York,161844,4401378
+Oregon,Colorado,70865,1779428
+Oregon,Vermont,173969,4658693
+Oregon,South Dakota,85636,2188531
+Oregon,Michigan,129815,3583514
+Oregon,Missouri,109429,2982211
+Oregon,North Carolina,158776,4330664
+Oregon,Rhode Island,172770,4659816
+Oregon,Idaho,30881,635692
+Oregon,Delaware,163346,4386340
+Oregon,District of Columbia,156985,4257677
+Oregon,New Hampshire,174308,4718468
+Oregon,Minnesota,96748,2580635
+Oregon,North Dakota,82611,2134652
+Oregon,Iowa,97668,2691693
+Oregon,Tennessee,133292,3624965
+Oregon,Florida,175081,4703969
+Oregon,Louisiana,132493,3628158
+Oregon,New Mexico,82093,2058865
+Oregon,Wyoming,57628,1435630
+Oregon,Pennsylvania,149994,4106639
+Oregon,South Carolina,156238,4253878
+Oregon,Utah,51872,1245668
+Oregon,West Virginia,146238,3991308
+Oregon,Washington,156985,4257677
+Oregon,Mississippi,137477,3800015
+Oregon,Illinois,110714,3066617
+Oregon,New Jersey,164096,4435788
+Oregon,California,42603,1080049
+Oregon,Ohio,132926,3635101
+Oregon,Texas,107115,2729187
+Oklahoma,Oklahoma,105718,2923766
+Oklahoma,Nevada,87891,2293022
+Oklahoma,Arizona,61232,1503343
+Oklahoma,Wisconsin,56518,1527146
+Oklahoma,Georgia,59563,1626002
+Oklahoma,Kansas,21485,574971
+Oklahoma,Connecticut,96258,2544565
+Oklahoma,Indiana,48365,1302210
+Oklahoma,Maine,118390,3191592
+Oklahoma,Massachusetts,102629,2789596
+Oklahoma,Montana,82582,2304304
+Oklahoma,Maryland,81067,2234836
+Oklahoma,Arkansas,21628,579921
+Oklahoma,Alabama,45604,1181990
+Oklahoma,Virginia,70436,1942315
+Oklahoma,Nebraska,35701,929386
+Oklahoma,Kentucky,51547,1423551
+Oklahoma,New York,90807,2382051
+Oklahoma,Colorado,46863,1275381
+Oklahoma,Vermont,104752,2710500
+Oklahoma,South Dakota,46007,1181181
+Oklahoma,Michigan,63465,1736221
+Oklahoma,Missouri,24819,673862
+Oklahoma,North Carolina,70203,1941065
+Oklahoma,Rhode Island,102415,2680606
+Oklahoma,Idaho,89287,2498740
+Oklahoma,Delaware,86218,2335579
+Oklahoma,District of Columbia,78428,2172338
+Oklahoma,New Hampshire,105091,2770276
+Oklahoma,Minnesota,58923,1600833
+Oklahoma,North Dakota,65912,1695527
+Oklahoma,Iowa,37930,1025770
+Oklahoma,Tennessee,41947,1134900
+Oklahoma,Florida,78396,2032284
+Oklahoma,Louisiana,29318,719348
+Oklahoma,New Mexico,34739,927443
+Oklahoma,Wyoming,58441,1683842
+Oklahoma,Pennsylvania,79639,2127431
+Oklahoma,South Carolina,63367,1704023
+Oklahoma,Utah,69351,1883830
+Oklahoma,West Virginia,66096,1806250
+Oklahoma,Washington,78428,2172338
+Oklahoma,Mississippi,35662,930887
+Oklahoma,Illinois,40806,1115364
+Oklahoma,New Jersey,90185,2360069
+Oklahoma,California,86873,2424869
+Oklahoma,Ohio,58221,1559260
+Oklahoma,Texas,21712,534007
+Oklahoma,Oregon,105718,2923766
