@@ -1,4 +1,5 @@
-origin,destination,duration,distanceArizona,Nevada,52331,1138826
+origin,destination,duration,distance
+Arizona,Nevada,52331,1138826
 Wisconsin,Nevada,111607,2933892
 Georgia,Nevada,143781,3826332
 Kansas,Nevada,77997,1967836
