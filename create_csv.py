@@ -17,15 +17,15 @@ def create_csv(infile_name='file.json',outfile_name='csv.txt'):
 
     dist_dur = jIn['rows'][0]['elements']
     out_list = [[]]*len(dist_dur)
-    csv_out.writerow(['lat-long','distances','durations'])
-    for i,str in enumerate(jIn['latlongs']):
-    #for i,str in enumerate(jIn['destination_addresses']): 
+    csv_out.writerow(['lat-long','destination_addresses','distances','durations'])
+    for i,latlong_str in enumerate(jIn['latlongs']):
+        destination_address = jIn['destination_addresses'][i]
         if dist_dur[i]['status'] == 'OK':
             distance = dist_dur[i]['distance']['value'] 
             duration = dist_dur[i]['duration']['value'] 
-            out_list[i] = [str,distance,duration]
+            out_list[i] = [latlong_str,destination_address,distance,duration]
         else:
-            out_list[i] = [str,-1,-1]
+            out_list[i] = [latlong_str,destination_address,-1,-1]
         csv_out.writerow(out_list[i])
     infile.close()
     outfile.close()
