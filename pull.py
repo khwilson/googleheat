@@ -1,4 +1,9 @@
 #!/usr/bin/python
+# pull.py
+# Kevin Wilson and Tarik Tosun, August 2012
+# Description:
+#   Makes pull request to google maps API in order to get distance and duration
+#   data.
 
 from random import gauss
 from sys import argv
@@ -49,7 +54,12 @@ def geocode(address):
    j = json.loads(google_out)
    return j['results'][0]['geometry']['location']
 
+def format(geocode_dict_list):
+    out_list = [str(entry['lat']) + ',' + str(entry['lng']) for entry in geocode_dict_list]
+    return out_list
 
+
+'''
 if __name__=='__main__':
    r"""
    Add back in a test guy
@@ -64,6 +74,7 @@ if __name__=='__main__':
    # roughly 400 miles:
    latsigma = 3.5
    longsigma = 3.5
+   pdb.set_trace()
 
    for query in range(maxquery):
       destinations = [ '%3.4f,%3.4f' % 
@@ -83,5 +94,4 @@ if __name__=='__main__':
       jOut['latlongs'] = destinations
       f.write(json.dumps(jOut))
 
-
-
+'''
